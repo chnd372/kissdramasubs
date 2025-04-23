@@ -3,9 +3,29 @@ const fs = require('fs');
 const https = require('https');
 const path = require('path');
 
+// Parse command line arguments
+const args = process.argv.slice(2);
+if (args.length < 2) {
+  console.error('Usage: node fetch-drama-data.js [startId] [endId]');
+  console.error('Example: node fetch-drama-data.js 500 501');
+  process.exit(1);
+}
+
 // Configuration
-const startId = 1; // Starting drama ID
-const endId = 1000; // Ending drama ID (adjust as needed)
+const startId = parseInt(args[0], 10);
+const endId = parseInt(args[1], 10);
+
+// Validate inputs
+if (isNaN(startId) || isNaN(endId)) {
+  console.error('Error: startId and endId must be numbers');
+  process.exit(1);
+}
+
+if (startId > endId) {
+  console.error('Error: startId must be less than or equal to endId');
+  process.exit(1);
+}
+
 const batchSize = 50; // Number of requests to process in parallel
 const baseOutputFile = 'drama_details.csv';
 const baseUrl = 'https://kisskh.ovh/api/DramaList/Drama/';

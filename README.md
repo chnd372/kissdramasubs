@@ -42,9 +42,12 @@ This script scrapes drama titles, show IDs, and episode IDs from the source.
 
 **Run**:
 ```bash
-node fetch-drama-data.js
+node fetch-drama-data.js [DramaStartID] [DramaEndID]
 ```
-
+**Example**: if Drama URL is "https://kisskh.ovh/Drama/Eat-Run-Love?id=9507"
+```bash
+node fetch-drama-data.js 9507 9507
+```
 > Modify the script if needed to target a specific genre, range, or source.
 
 ---
@@ -82,6 +85,8 @@ node parallel-fetch-subtitles.js
 This script:
 - Reads subtitle URLs and metadata
 - Saves each subtitle to a local file (organized by drama)
+- Updated for .txt, .txt1, .txt2, .... file types
+- Cleanup CSV files after task completed
 
 **Run**:
 ```bash
@@ -98,8 +103,6 @@ python download_subs.py
 
 ### In `fetch-drama-data.js`:
 ```js
-const startId = 9507; # Drama ID "https://kisskh.ovh/Drama/Eat-Run-Love?id=9507"
-const endId = 9507; # Ending drama ID (adjust as needed)
 const batchSize = 50; #Number of requests to process in parallel
 const delayBetweenBatches = 2000; # 2 seconds between batches to avoid rate limiting
 ```
