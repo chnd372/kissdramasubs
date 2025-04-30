@@ -1,4 +1,4 @@
-# KissKH Subtitle Downloader
+# KissKH Subtitle Downloader v2.0.0
 
 This project is a powerful tool for downloading and decrypting subtitles from [kisskh.ovh](https://kisskh.ovh) using a CLI and GUI interface. 
 It supports multi-language subtitle selection, threaded downloads, decryption of protected subtitle formats, and automatic directory handling. 
