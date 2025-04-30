@@ -26,7 +26,7 @@ npm install axios csv-parser puppeteer puppeteer-extra puppeteer-extra-plugin-st
 Install using pip:
 
 ```bash
-pip install requests pandas tqdm
+pip install requests pandas tqdm pycryptodome
 ```
 
 ---
