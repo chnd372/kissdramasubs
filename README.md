@@ -1,4 +1,4 @@
-# KissKH Subtitle Downloader v2.0.0
+# KissKH Subtitle Downloader v2.0
 
 This project is a powerful tool for downloading and decrypting subtitles from [kisskh.ovh](https://kisskh.ovh) using a CLI and GUI interface. 
 It supports multi-language subtitle selection, threaded downloads, decryption of protected subtitle formats, and automatic directory handling. 
@@ -124,14 +124,17 @@ Use `--onedir` if antivirus falsely flags the single executable.
 
 ---
 
+## 👨‍💻 Author
+
+- Developed by **PanguPlay** [Repo](https://github.com/PurushothMathav/kissdramasubs)
+- inspired by **Prudhvi PLN** [Repo](https://github.com/Prudhvi-pln/udb)
+
+---
+
 ## 🔓 License
 
 This project is for educational purposes only. Use responsibly. 
 
 ---
 
-## 🙌 Credits
 
-Created by PanguPlay
-  
-Inspired by the structure of KissKH subtitle hosting platform.
