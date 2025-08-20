@@ -1,0 +1,4737 @@
+1
+00:00:21,600 --> 00:00:25,440
+♪Jangan takut
+dengan yang disebut murid teladan♪
+
+2
+00:00:26,040 --> 00:00:28,960
+♪Kau juga adalah legenda
+bagi orang lain♪
+
+3
+00:00:29,680 --> 00:00:32,480
+♪Jangan berhenti,
+berusaha untuk berkembang♪
+
+4
+00:00:32,840 --> 00:00:35,880
+♪Bunga yang mekar saat musim panas♪
+
+5
+00:00:37,280 --> 00:00:40,400
+♪Sekarang akan memformat kehidupan♪
+
+6
+00:00:40,800 --> 00:00:43,920
+♪Matematika dan fisika
+tidak termasuk rumit♪
+
+7
+00:00:44,040 --> 00:00:48,720
+♪Masa muda masih goyah,
+kita perlahan-lahan bertambah kuat♪
+
+8
+00:00:50,720 --> 00:00:53,800
+♪Hatiku masih tetap hangat dan membara♪
+
+9
+00:00:54,200 --> 00:00:58,000
+♪Ikuti ritme ini, dilepaskan sepuasnya♪
+
+10
+00:00:58,320 --> 00:01:01,960
+♪Langit malam menyala,
+menuntunku dalam perjuanganku♪
+
+11
+00:01:02,120 --> 00:01:05,840
+♪Aku menemanimu terbang dengan berani♪
+
+12
+00:01:06,080 --> 00:01:09,560
+♪Cintaku masih tetap hangat dan membara♪
+
+13
+00:01:10,000 --> 00:01:13,200
+♪Bersinar di rongga mata yang tersenyum♪
+
+14
+00:01:13,360 --> 00:01:20,640
+♪Biarkan kita melewati rintangan waktu♪
+
+15
+00:01:32,360 --> 00:01:36,000
+[Masa Muda Berulang]
+
+16
+00:01:36,000 --> 00:01:38,960
+[Episode 6]
+
+17
+00:01:45,840 --> 00:01:47,480
+[Universitas Jinghai;
+Uji Coba Kemudi Otonom]
+
+18
+00:01:58,600 --> 00:02:00,060
+Sistem pelayaran normal.
+
+19
+00:02:00,080 --> 00:02:00,580
+Semuanya normal.
+
+20
+00:02:00,880 --> 00:02:01,450
+Bersiap untuk diaktifkan.
+
+21
+00:02:02,800 --> 00:02:03,400
+[Lapangan Uji Coba Kendaraan Eksperimental
+Universitas Jinghai]
+
+22
+00:02:03,470 --> 00:02:03,730
+Baik.
+
+23
+00:02:04,390 --> 00:02:05,140
+Aktifkan kemudi otonom.
+
+24
+00:02:05,550 --> 00:02:06,700
+- Diterima.
+- Diterima.
+
+25
+00:02:07,830 --> 00:02:09,300
+Konfirmasi mobil eksperimental
+dan pelayaran.
+
+26
+00:02:09,870 --> 00:02:11,250
+Kemudi otonom normal.
+
+27
+00:02:12,150 --> 00:02:13,250
+Arah berbelok normal.
+
+28
+00:02:13,870 --> 00:02:15,340
+Sudah diaktifkan,
+tolong laporkan kecepatan.
+
+29
+00:02:15,480 --> 00:02:17,780
+Kecepatan lima kilometer per jam.
+
+30
+00:02:18,710 --> 00:02:20,300
+Deteksi kecepatan,
+lima kilometer per jam.
+
+31
+00:02:23,640 --> 00:02:24,740
+Kecepatan lima kilometer per jam.
+
+32
+00:02:27,520 --> 00:02:28,940
+Deteksi kecepatan,
+lima kilometer per jam.
+
+33
+00:02:29,240 --> 00:02:31,530
+Kecepatan lima kilometer per jam.
+
+34
+00:02:32,920 --> 00:02:33,570
+Tolong laporkan kecepatan.
+
+35
+00:02:33,830 --> 00:02:36,130
+Kecepatan sepuluh kilometer per jam.
+
+36
+00:02:36,520 --> 00:02:37,970
+Deteksi kecepatan,
+sepuluh kilometer per jam.
+
+37
+00:02:38,870 --> 00:02:39,940
+Uji coba hambatan di depan.
+
+38
+00:02:40,150 --> 00:02:41,780
+Berjarak sepuluh meter dari hambatan.
+
+39
+00:02:42,320 --> 00:02:43,810
+Aktifkan otomatis berbelok.
+
+40
+00:02:44,430 --> 00:02:45,780
+Menghindari hambatan, normal.
+
+41
+00:02:46,040 --> 00:02:47,300
+Harap mengemudi dengan hati-hati.
+
+42
+00:02:48,870 --> 00:02:49,530
+Gao!
+
+43
+00:02:51,990 --> 00:02:52,570
+Gao!
+
+44
+00:02:52,800 --> 00:02:53,250
+Senior Lin.
+
+45
+00:02:53,320 --> 00:02:54,130
+Segera hentikan uji coba.
+
+46
+00:02:54,670 --> 00:02:55,410
+Datanya bermasalah.
+
+47
+00:02:55,960 --> 00:02:56,370
+Kenapa?
+
+48
+00:02:56,830 --> 00:02:57,570
+Tidak mungkin, Senior.
+
+49
+00:02:57,760 --> 00:02:58,570
+Hasil datanya tidak berbeda
+
+50
+00:02:58,710 --> 00:03:00,130
+dengan simulasi daring.
+
+51
+00:03:00,320 --> 00:03:00,970
+Tingkat kegagalan satu dari 10.000
+
+52
+00:03:00,990 --> 00:03:02,020
+dari simulasi daring
+
+53
+00:03:02,080 --> 00:03:02,620
+tidak bisa menjamin
+
+54
+00:03:02,670 --> 00:03:03,740
+tingkat keamanan uji coba di lapangan.
+
+55
+00:03:04,040 --> 00:03:04,500
+Lin Jiadong,
+
+56
+00:03:04,960 --> 00:03:05,460
+segera tarik
+
+57
+00:03:05,520 --> 00:03:06,690
+mode berkendara cerdas Gao,
+
+58
+00:03:07,040 --> 00:03:08,180
+suruh dia kendalikan mobil secara manual
+
+59
+00:03:08,390 --> 00:03:09,130
+dan keluar dari area uji coba.
+
+60
+00:03:09,390 --> 00:03:09,900
+Genius,
+
+61
+00:03:10,080 --> 00:03:10,500
+para ahli
+
+62
+00:03:10,550 --> 00:03:11,460
+sedang melihat di ruang observasi.
+
+63
+00:03:11,830 --> 00:03:12,570
+Kau tenang saja.
+
+64
+00:03:12,670 --> 00:03:13,460
+Peluang satu dari 10.000
+
+65
+00:03:13,520 --> 00:03:14,130
+tidak begitu mudah terjadi.
+
+66
+00:03:14,200 --> 00:03:15,530
+Jika terjadi masalah,
+itu akan menjadi 100 persen.
+
+67
+00:03:16,760 --> 00:03:17,650
+Aku adalah penanggung jawab utama.
+
+68
+00:03:18,270 --> 00:03:19,300
+Semuanya harus mengikuti perintahku.
+
+69
+00:03:19,480 --> 00:03:20,180
+Hentikan uji coba.
+
+70
+00:03:22,390 --> 00:03:22,780
+Senior Gao.
+
+71
+00:03:22,960 --> 00:03:23,650
+Senior Lin memberi tahu kami
+
+72
+00:03:23,710 --> 00:03:24,370
+untuk menghentikan uji coba.
+
+73
+00:03:24,710 --> 00:03:25,940
+Tolong tutup mode mengemudi otonom,
+
+74
+00:03:26,080 --> 00:03:26,850
+lalu kembali dengan kendali manual.
+
+75
+00:03:29,040 --> 00:03:29,740
+Tolong laporkan kecepatan.
+
+76
+00:03:30,830 --> 00:03:33,130
+Kecepatan sepuluh kilometer per jam.
+
+77
+00:03:36,990 --> 00:03:37,940
+Berapa deteksi kecepatannya?
+
+78
+00:03:37,990 --> 00:03:39,370
+Kecepatan 20 kilometer per jam.
+
+79
+00:03:40,670 --> 00:03:42,570
+Kecepatan sepuluh kilometer per jam.
+
+80
+00:03:42,640 --> 00:03:43,460
+Berapa deteksi kecepatannya?
+
+81
+00:03:43,760 --> 00:03:44,340
+Deteksi kecepatan.
+
+82
+00:03:44,360 --> 00:03:45,300
+Kecepatan 50 kilometer per jam.
+
+83
+00:03:45,520 --> 00:03:46,250
+Menjadi makin cepat.
+
+84
+00:03:49,360 --> 00:03:51,570
+Kecepatan sepuluh kilometer per jam.
+
+85
+00:03:51,640 --> 00:03:52,340
+Kesalahan pelaporan.
+
+86
+00:03:52,550 --> 00:03:53,220
+Deteksi kecepatan.
+
+87
+00:03:53,240 --> 00:03:54,180
+Kecepatan 55 kilometer per jam.
+
+88
+00:03:54,800 --> 00:03:55,340
+Deteksi kecepatan.
+
+89
+00:03:55,360 --> 00:03:56,250
+Kecepatan 60 kilometer per jam.
+
+90
+00:03:57,390 --> 00:03:57,740
+Senior Lin.
+
+91
+00:03:57,760 --> 00:03:58,020
+Bagaimana ini?
+
+92
+00:03:58,040 --> 00:03:58,690
+Tidak bisa berhenti.
+
+93
+00:03:58,960 --> 00:03:59,340
+Tidak bisa berhenti.
+
+94
+00:03:59,360 --> 00:03:59,850
+Aku juga.
+
+95
+00:04:00,110 --> 00:04:00,620
+Apa yang terjadi?
+
+96
+00:04:00,670 --> 00:04:02,180
+Kecepatan 65 kilometer per jam.
+
+97
+00:04:04,990 --> 00:04:05,780
+Gao, tenangkan dirimu.
+
+98
+00:04:09,640 --> 00:04:10,500
+Aku akan mengakses dari jarak jauh
+
+99
+00:04:10,520 --> 00:04:11,090
+untuk membantumu mengerem.
+
+100
+00:04:13,870 --> 00:04:14,340
+Mengerem mobil.
+
+101
+00:04:14,960 --> 00:04:15,690
+Lin, kau bisa mendengarnya?
+
+102
+00:04:16,270 --> 00:04:17,330
+Kecepatannya sudah 75 kilometer per jam.
+
+103
+00:04:18,230 --> 00:04:19,010
+Kecepatannya terus meningkat.
+
+104
+00:04:19,350 --> 00:04:19,940
+Masalahnya ada di mana?
+
+105
+00:04:19,960 --> 00:04:20,660
+Salah.
+
+106
+00:04:20,680 --> 00:04:21,180
+Bagaimana kondisimu?
+
+107
+00:04:21,560 --> 00:04:22,300
+Tidak bisa dikontrol, bagaimana ini?
+
+108
+00:04:22,680 --> 00:04:23,300
+Tidak bisa diturunkan.
+
+109
+00:04:27,680 --> 00:04:28,420
+Masih terus meningkat.
+
+110
+00:04:28,640 --> 00:04:29,420
+Metode ini tidak bisa.
+
+111
+00:04:32,120 --> 00:04:32,890
+Berapa deteksi kecepatannya?
+
+112
+00:04:33,000 --> 00:04:33,620
+Sudah 85.
+
+113
+00:04:33,680 --> 00:04:34,660
+Sudah melebihi batas penilaian risiko.
+
+114
+00:04:34,710 --> 00:04:35,660
+Lin, bagaimana ini?
+
+115
+00:04:35,710 --> 00:04:36,450
+Kecepatannya tidak bisa diturunkan.
+
+116
+00:04:36,560 --> 00:04:37,540
+Semuanya, bantu dia turunkan kecepatan.
+
+117
+00:04:38,390 --> 00:04:38,810
+Gao,
+
+118
+00:04:39,200 --> 00:04:40,500
+putar kemudi terlebih dulu
+sebelum tiba di belokan.
+
+119
+00:04:40,560 --> 00:04:41,740
+Tidak bisa, masih sedang meningkat.
+
+120
+00:04:42,080 --> 00:04:43,130
+Bagaimana ini? Tidak bisa berhenti.
+
+121
+00:04:44,270 --> 00:04:44,860
+Tadi aku yang salah
+
+122
+00:04:45,120 --> 00:04:45,860
+karena tidak mendengarkanmu.
+
+123
+00:04:46,350 --> 00:04:47,250
+Pasti karena kita tidak melakukan
+
+124
+00:04:47,320 --> 00:04:48,060
+pemeriksaan kode dengan baik.
+
+125
+00:04:48,560 --> 00:04:49,130
+Lain kali
+
+126
+00:04:49,230 --> 00:04:49,660
+saat melakukan uji coba lagi,
+
+127
+00:04:49,680 --> 00:04:50,620
+aku pasti akan mendengarkanmu.
+
+128
+00:04:51,910 --> 00:04:53,540
+Lin, turunkan kecepatan.
+
+129
+00:04:54,390 --> 00:04:55,620
+Kendalikan arah! Arah!
+
+130
+00:04:59,790 --> 00:05:01,370
+Apakah remnya tidak berfungsi?
+
+131
+00:05:04,080 --> 00:05:05,010
+Semua sistem hentikan mobil,
+
+132
+00:05:05,120 --> 00:05:05,420
+cepat!
+
+133
+00:05:06,150 --> 00:05:07,250
+Tidak bisa,
+sama sekali tidak ada reaksi.
+
+134
+00:05:07,440 --> 00:05:08,060
+Tidak ada gunanya.
+
+135
+00:05:08,200 --> 00:05:08,860
+Bertahanlah, Gao Rui.
+
+136
+00:05:09,560 --> 00:05:10,180
+Kita harus pikirkan cara
+
+137
+00:05:10,230 --> 00:05:11,250
+untuk meminimalkan kerugian.
+
+138
+00:05:12,440 --> 00:05:12,860
+Lin.
+
+139
+00:05:13,080 --> 00:05:13,540
+Bagaimana ini?
+
+140
+00:05:13,710 --> 00:05:14,890
+Apakah hari ini
+aku akan meninggal di sini?
+
+141
+00:05:15,000 --> 00:05:15,570
+Gesek sabuk isolasi,
+
+142
+00:05:15,590 --> 00:05:16,860
+kurangi kecepatan dengan benturan objek.
+
+143
+00:05:20,520 --> 00:05:21,420
+Kecepatannya sudah 95 kilometer per jam!
+
+144
+00:05:21,790 --> 00:05:22,370
+Bagaimana ini?
+
+145
+00:05:24,520 --> 00:05:25,300
+Lakukan sekali lagi.
+
+146
+00:05:25,470 --> 00:05:26,250
+Gesek sabuk isolasi,
+
+147
+00:05:26,320 --> 00:05:27,330
+kurangi kecepatan dengan benturan objek.
+
+148
+00:05:44,910 --> 00:05:45,450
+Gao!
+
+149
+00:05:52,200 --> 00:05:52,540
+Gao Rui.
+
+150
+00:05:52,830 --> 00:05:53,300
+Senior Gao.
+
+151
+00:06:04,030 --> 00:06:04,810
+Orang lain harap pergi.
+
+152
+00:06:05,320 --> 00:06:06,300
+Denyut nadi karotis menghilang.
+
+153
+00:06:06,440 --> 00:06:07,420
+Lakukan resusitasi jantung paru.
+
+154
+00:06:24,790 --> 00:06:25,250
+Gao Rui,
+
+155
+00:06:25,710 --> 00:06:26,330
+waktu kematiannya
+
+156
+00:06:26,470 --> 00:06:28,100
+tanggal 5 September 2014,
+
+157
+00:06:28,470 --> 00:06:29,690
+pukul sepuluh lewat 19 menit
+
+158
+00:06:29,710 --> 00:06:30,420
+32 detik malam.
+
+159
+00:06:32,920 --> 00:06:35,400
+[Ruang Operasi Pertama]
+
+160
+00:06:38,640 --> 00:06:39,540
+Apakah keluarga Gao Rui hadir?
+
+161
+00:06:43,120 --> 00:06:43,740
+Orangnya sudah diselamatkan.
+
+162
+00:06:44,640 --> 00:06:45,210
+Sekarang dia sedang koma
+
+163
+00:06:45,230 --> 00:06:45,940
+dan dipindahkan
+ke Unit Perawatan Intensif.
+
+164
+00:06:46,470 --> 00:06:47,210
+Pergi bayar biaya rawat inap.
+
+165
+00:07:04,590 --> 00:07:05,210
+Semuanya seperti
+
+166
+00:07:05,230 --> 00:07:06,540
+pengulangan dari masa lalu.
+
+167
+00:07:07,910 --> 00:07:08,540
+Namun, untungnya,
+
+168
+00:07:10,080 --> 00:07:11,100
+tidak sepenuhnya sama.
+
+169
+00:07:28,000 --> 00:07:28,990
+[Hasil kemenangan Super Lotere;
+Nomor pemenang edisi ini:]
+
+170
+00:07:29,030 --> 00:07:30,130
+Nomor pemenang lotere kali ini adalah...
+
+171
+00:07:30,200 --> 00:07:30,740
+Nol, tujuh.
+
+172
+00:07:31,120 --> 00:07:31,660
+Nol, tujuh.
+
+173
+00:07:32,440 --> 00:07:33,060
+Satu, tiga.
+
+174
+00:07:33,710 --> 00:07:34,330
+Satu, tiga.
+
+175
+00:07:34,720 --> 00:07:36,000
+[Hasil kemenangan Super Lotere;
+Nomor pemenang edisi ini: 07, 13]
+
+176
+00:07:36,120 --> 00:07:36,940
+Satu, empat.
+
+177
+00:07:37,680 --> 00:07:38,300
+Satu, empat.
+
+178
+00:07:38,300 --> 00:07:39,160
+[Hasil kemenangan Super Lotere;
+Nomor pemenang edisi ini: 07, 13, 14]
+
+179
+00:07:39,710 --> 00:07:40,300
+Dua, delapan.
+
+180
+00:07:40,680 --> 00:07:41,250
+Dua, delapan.
+
+181
+00:07:43,000 --> 00:07:43,570
+Tiga, dua.
+
+182
+00:07:43,830 --> 00:07:44,420
+Tiga, dua.
+
+183
+00:07:44,420 --> 00:07:45,040
+[Nomor pemenang edisi ini:
+07, 13, 14, 28, 32]
+
+184
+00:07:45,040 --> 00:07:46,210
+[07. 13, 14, 28, 32, 06, 07]
+Menang nomor lima grup pertama
+
+185
+00:07:46,590 --> 00:07:47,330
+mendapat hadiah tingkat tiga, benar?
+
+186
+00:07:47,520 --> 00:07:47,810
+Benar.
+
+187
+00:07:47,910 --> 00:07:48,660
+Namun, ada peluang
+mendapat hadiah utama.
+
+188
+00:07:48,830 --> 00:07:49,570
+Masih ada dua nomor.
+
+189
+00:07:49,640 --> 00:07:50,210
+Nomor khusus adalah
+
+190
+00:07:50,210 --> 00:07:51,000
+[Nomor pemenang edisi ini:
+07, 13, 14, 28, 32, 04, 11]
+
+191
+00:07:51,000 --> 00:07:51,540
+nol, empat,
+
+192
+00:07:52,350 --> 00:07:52,860
+satu, satu.
+
+193
+00:07:55,470 --> 00:07:56,810
+Namun, hadiah tingkat tiga
+juga sudah bagus.
+
+194
+00:07:56,960 --> 00:07:57,540
+Uangnya sangat banyak.
+
+195
+00:07:57,710 --> 00:07:58,540
+Cukup bagimu untuk bersenang-senang.
+
+196
+00:07:59,520 --> 00:08:00,210
+Uang untuk membeli nyawa.
+
+197
+00:08:01,390 --> 00:08:02,890
+Kenapa orang yang membeli lotere
+
+198
+00:08:03,030 --> 00:08:03,770
+belakangan ini begitu aneh?
+
+199
+00:08:22,520 --> 00:08:22,940
+Halo.
+
+200
+00:08:23,440 --> 00:08:24,890
+Permisi, rumah Keluarga Gu di mana?
+
+201
+00:08:26,120 --> 00:08:27,180
+Di sini.
+
+202
+00:08:27,790 --> 00:08:28,210
+Yang ini?
+
+203
+00:08:28,350 --> 00:08:29,010
+Benar.
+
+204
+00:08:29,080 --> 00:08:29,770
+Baik, terima kasih.
+
+205
+00:08:32,110 --> 00:08:32,940
+Kenapa tampan sekali?
+
+206
+00:08:32,940 --> 00:08:34,240
+[Pukul 09:00, guru privat;
+Pukul 13:00, toko buku]
+
+207
+00:08:40,590 --> 00:08:41,060
+Halo.
+
+208
+00:08:58,590 --> 00:09:00,090
+Pemberian oleh takdir
+selalu ada harganya,
+
+209
+00:09:01,160 --> 00:09:01,970
+juga selalu ada kejutan.
+
+210
+00:09:04,110 --> 00:09:05,260
+Selama hidupnya cukup lama...
+
+211
+00:09:06,320 --> 00:09:07,450
+Pasti ada kesempatan
+untuk membalikkan situasi.
+
+212
+00:09:07,630 --> 00:09:08,900
+Pasti ada kesempatan
+untuk membalikkan situasi.
+
+213
+00:09:10,830 --> 00:09:11,380
+Kalau begitu,
+
+214
+00:09:13,160 --> 00:09:13,970
+mari mempertaruhkan segalanya.
+
+215
+00:09:41,870 --> 00:09:43,020
+Laboratoriumku tercinta,
+
+216
+00:09:43,230 --> 00:09:44,210
+aku kembali lagi!
+
+217
+00:09:45,870 --> 00:09:46,380
+Orangnya di mana?
+
+218
+00:09:47,440 --> 00:09:48,180
+Bukankah baru memberikan mereka
+
+219
+00:09:48,230 --> 00:09:49,020
+proposal penyesuaian?
+
+220
+00:09:49,440 --> 00:09:50,570
+Mereka semua sedang
+melakukan uji coba di lapangan.
+
+221
+00:09:52,680 --> 00:09:53,300
+Bagus juga.
+
+222
+00:09:54,080 --> 00:09:55,210
+Aku tidak leluasa bergerak.
+
+223
+00:09:55,470 --> 00:09:56,180
+Jika ada banyak orang,
+
+224
+00:09:56,230 --> 00:09:56,780
+aku akan mengganggu
+
+225
+00:09:57,200 --> 00:09:57,690
+di sini.
+
+226
+00:09:59,800 --> 00:10:00,260
+Ayo.
+
+227
+00:10:14,440 --> 00:10:14,850
+Lin.
+
+228
+00:10:15,400 --> 00:10:16,570
+Di kantong itu ada makanan enak apa?
+
+229
+00:10:16,830 --> 00:10:17,380
+Aku lapar.
+
+230
+00:10:18,160 --> 00:10:19,330
+Di dalamnya alat untuk bekerja.
+
+231
+00:10:20,920 --> 00:10:21,810
+Alat untuk bekerja?
+
+232
+00:10:24,350 --> 00:10:25,060
+Untuk mengajar.
+
+233
+00:10:26,680 --> 00:10:27,900
+Selain itu, untuk membantumu mengajar.
+
+234
+00:10:31,110 --> 00:10:31,610
+Tunggu.
+
+235
+00:10:33,110 --> 00:10:33,450
+Nanti
+
+236
+00:10:33,470 --> 00:10:34,850
+kau akan pergi mengajar Siswi Gu, ya?
+
+237
+00:10:37,710 --> 00:10:38,210
+Namun,
+
+238
+00:10:38,870 --> 00:10:40,060
+ini alat pemadam kebakaran, 'kan?
+
+239
+00:10:41,080 --> 00:10:41,970
+Kelas apa yang butuh ini?
+
+240
+00:10:43,400 --> 00:10:44,180
+Jangan asal sentuh.
+
+241
+00:10:44,510 --> 00:10:45,450
+Sangat mudah meledak.
+
+242
+00:10:59,400 --> 00:11:01,180
+Ke... keajaiban medis.
+
+243
+00:11:01,680 --> 00:11:03,420
+Kau anggap saja
+
+244
+00:11:03,710 --> 00:11:04,610
+tidak terjadi apa pun.
+
+245
+00:11:05,200 --> 00:11:06,690
+Itu, kau...
+
+246
+00:11:06,830 --> 00:11:08,450
+Kau cepat pergi mengajar Xuejiao.
+
+247
+00:11:12,920 --> 00:11:14,300
+Kau cukup nyaman duduk di kursi roda.
+
+248
+00:11:15,400 --> 00:11:16,690
+Gu Xuejiao yang memberimu ide ini, 'kan?
+
+249
+00:11:17,710 --> 00:11:18,380
+Nanti saat kau pergi mengajarinya,
+
+250
+00:11:18,560 --> 00:11:19,330
+jangan mengkhianatiku.
+
+251
+00:11:20,110 --> 00:11:20,660
+Tenang saja.
+
+252
+00:11:21,280 --> 00:11:22,180
+Namun,
+
+253
+00:11:22,830 --> 00:11:24,140
+kau harus lekas sembuh.
+
+254
+00:11:30,710 --> 00:11:31,210
+Datang satu orang
+
+255
+00:11:31,320 --> 00:11:32,380
+untuk membantu memindahkan barang.
+
+256
+00:11:32,630 --> 00:11:33,180
+Biar aku saja.
+
+257
+00:11:33,470 --> 00:11:33,970
+Aku saja.
+
+258
+00:11:41,320 --> 00:11:41,730
+Xuejiao.
+
+259
+00:11:42,470 --> 00:11:42,900
+Biar kubantu.
+
+260
+00:11:43,830 --> 00:11:44,330
+Biar aku saja.
+
+261
+00:11:44,440 --> 00:11:44,810
+Kau lihatlah.
+
+262
+00:11:46,110 --> 00:11:46,900
+Ini harus dibuat seperti ini.
+
+263
+00:11:50,040 --> 00:11:51,180
+Ini dulu...
+
+264
+00:11:51,590 --> 00:11:52,810
+Apakah itu mau diturunkan sedikit?
+
+265
+00:11:53,280 --> 00:11:54,180
+Kapan Shiyun akan sampai?
+
+266
+00:11:54,400 --> 00:11:55,260
+Aku mau turun untuk menjemputnya.
+
+267
+00:11:58,320 --> 00:12:00,090
+Siapa yang memberitahumu
+aku mengundangnya?
+
+268
+00:12:00,560 --> 00:12:01,690
+Kenapa tidak diundang?
+
+269
+00:12:01,750 --> 00:12:02,420
+Beberapa hari lalu,
+
+270
+00:12:02,470 --> 00:12:03,570
+dia masih mengkhawatirkan nilaimu.
+
+271
+00:12:03,870 --> 00:12:04,610
+Dia juga memberitahuku
+
+272
+00:12:04,680 --> 00:12:05,450
+bahwa belakangan ini
+kau selalu mengabaikannya.
+
+273
+00:12:05,710 --> 00:12:06,540
+Ada apa dengan kalian berdua?
+
+274
+00:12:07,110 --> 00:12:07,970
+Bukan aku ingin mengataimu.
+
+275
+00:12:08,080 --> 00:12:08,610
+Gu Mingze,
+
+276
+00:12:09,110 --> 00:12:10,180
+kau sungguh tidak menyadarinya, ya?
+
+277
+00:12:11,440 --> 00:12:11,970
+Menyadari apa?
+
+278
+00:12:16,040 --> 00:12:17,210
+Orang tidak peka di keluarga kita ini
+
+279
+00:12:17,510 --> 00:12:18,780
+sungguh harus dicatat
+di dalam silsilah keluarga.
+
+280
+00:12:19,280 --> 00:12:20,090
+Kau sungguh tidak mengundangnya?
+
+281
+00:12:21,110 --> 00:12:21,490
+Tidak.
+
+282
+00:12:27,630 --> 00:12:27,970
+Xuejiao,
+
+283
+00:12:28,200 --> 00:12:28,570
+biar kubantu.
+
+284
+00:12:29,160 --> 00:12:29,900
+Aku saja.
+
+285
+00:12:32,630 --> 00:12:33,730
+Bantu aku berterima kasih kepada Paman,
+
+286
+00:12:34,200 --> 00:12:34,970
+jadi membuatnya menghabiskan uang.
+
+287
+00:12:35,400 --> 00:12:36,060
+Namun, apakah
+
+288
+00:12:36,080 --> 00:12:36,570
+hari ini
+
+289
+00:12:36,630 --> 00:12:37,450
+dia ada acara penting?
+
+290
+00:12:37,920 --> 00:12:39,330
+Kulihat hari ini pakaiannya sangat...
+
+291
+00:12:39,510 --> 00:12:40,180
+Mirip manusia.
+
+292
+00:12:41,160 --> 00:12:42,140
+Tampan dan keren.
+
+293
+00:12:42,920 --> 00:12:44,060
+Ayahku bilang, sekarang
+
+294
+00:12:44,110 --> 00:12:45,260
+proyeknya tidak berjalan lancar.
+
+295
+00:12:45,470 --> 00:12:46,690
+Dia mau mengikuti perkembangan zaman
+
+296
+00:12:46,830 --> 00:12:48,060
+dan beradaptasi
+dengan masyarakat saat ini.
+
+297
+00:12:48,160 --> 00:12:50,020
+Dia mau menjadi babi di lubang angin.
+
+298
+00:12:52,590 --> 00:12:54,180
+Dia menerima nasihat
+
+299
+00:12:54,230 --> 00:12:55,730
+dari guru ilmu sukses yang mana lagi?
+
+300
+00:12:56,680 --> 00:12:58,260
+Dia adalah bos besar
+
+301
+00:12:58,630 --> 00:12:59,730
+yang mengerjakan proyek
+bersama ayahku dulu
+
+302
+00:13:00,750 --> 00:13:01,540
+dan berinvestasi di beberapa film.
+
+303
+00:13:03,230 --> 00:13:04,210
+Kau tahu Tang Jingjing, 'kan?
+
+304
+00:13:05,710 --> 00:13:06,300
+Kau mau tanda tangannya?
+
+305
+00:13:06,510 --> 00:13:07,420
+Ayahku bisa mendapatkannya.
+
+306
+00:13:08,920 --> 00:13:09,780
+Kau membual, 'kan?
+
+307
+00:13:09,990 --> 00:13:10,540
+Benarkah?
+
+308
+00:13:10,630 --> 00:13:11,210
+Aku mau.
+
+309
+00:13:11,320 --> 00:13:12,140
+Aku juga mau.
+
+310
+00:13:12,320 --> 00:13:12,730
+Sungguh.
+
+311
+00:13:12,920 --> 00:13:13,450
+Boleh, tidak masalah.
+
+312
+00:13:13,560 --> 00:13:14,330
+Tang Jingjing?
+
+313
+00:13:14,640 --> 00:13:15,360
+[Topik Populer Weibo;
+1. Film Tang Jingjing batal ditayangkan]
+
+314
+00:13:15,750 --> 00:13:16,180
+Tidak bisa.
+
+315
+00:13:17,230 --> 00:13:17,660
+Kenapa?
+
+316
+00:13:20,470 --> 00:13:21,140
+Jangan-jangan
+
+317
+00:13:21,350 --> 00:13:23,060
+ayahnya bangkrut karena masalah ini?
+
+318
+00:13:23,400 --> 00:13:24,570
+Berinvestasi di filmnya
+
+319
+00:13:24,870 --> 00:13:25,810
+pasti akan menjadi bencana.
+
+320
+00:13:26,200 --> 00:13:26,660
+Bencana?
+
+321
+00:13:26,920 --> 00:13:28,020
+Bukan film terkait bencana.
+
+322
+00:13:28,080 --> 00:13:28,940
+Ini film romansa.
+
+323
+00:13:29,800 --> 00:13:30,180
+Kenapa?
+
+324
+00:13:30,590 --> 00:13:31,570
+Apakah kau pembencinya?
+
+325
+00:13:33,080 --> 00:13:34,210
+Nanti baru kujelaskan kepadamu.
+
+326
+00:13:34,440 --> 00:13:35,140
+Waktunya akan segera tiba.
+
+327
+00:13:35,710 --> 00:13:37,060
+Aku mengundang
+seorang tamu penting hari ini.
+
+328
+00:13:37,320 --> 00:13:37,850
+Dia seharusnya sudah mau sampai.
+
+329
+00:13:38,040 --> 00:13:38,610
+Aku akan menjemputnya.
+
+330
+00:13:39,680 --> 00:13:41,140
+Bukankah aku tamu terpentingmu?
+
+331
+00:13:41,440 --> 00:13:42,380
+Kau?
+
+332
+00:13:42,960 --> 00:13:43,330
+Kenapa?
+
+333
+00:13:43,510 --> 00:13:44,540
+Kau sungguh menganggap penting dirimu.
+
+334
+00:13:49,040 --> 00:13:49,780
+Senior Lin.
+
+335
+00:13:53,590 --> 00:13:54,260
+Senior Lin.
+
+336
+00:13:56,830 --> 00:13:57,780
+Pamannya.
+
+337
+00:14:00,510 --> 00:14:01,730
+Hadiahmu mewah sekali.
+
+338
+00:14:02,040 --> 00:14:02,660
+Merah mewakili keberuntungan.
+
+339
+00:14:03,590 --> 00:14:04,570
+Benar, Senior Lin.
+
+340
+00:14:04,630 --> 00:14:05,690
+Apakah ada orang
+yang bisa membuat balkon
+
+341
+00:14:05,750 --> 00:14:06,180
+kebakaran?
+
+342
+00:14:06,750 --> 00:14:07,210
+Kau.
+
+343
+00:14:07,680 --> 00:14:08,420
+Sedia payung sebelum hujan.
+
+344
+00:14:09,350 --> 00:14:09,850
+Senior Lin,
+
+345
+00:14:09,990 --> 00:14:10,450
+cepat duduk.
+
+346
+00:14:10,560 --> 00:14:10,900
+Boleh.
+
+347
+00:14:10,920 --> 00:14:11,610
+Hari ini ada banyak makanan enak.
+
+348
+00:14:11,630 --> 00:14:12,300
+Ayo.
+
+349
+00:14:12,990 --> 00:14:13,490
+Gu Xuejiao,
+
+350
+00:14:13,800 --> 00:14:14,810
+kuberikan kau satu kesempatan lagi.
+
+351
+00:14:15,110 --> 00:14:16,330
+Jika kau mengundang Shiyun kemari,
+
+352
+00:14:16,510 --> 00:14:17,180
+aku akan memaafkanmu.
+
+353
+00:14:18,870 --> 00:14:19,490
+Kau begitu hebat,
+
+354
+00:14:19,750 --> 00:14:20,450
+kau undang saja sendiri.
+
+355
+00:14:20,750 --> 00:14:21,540
+Lihat dia akan memedulikanmu atau tidak.
+
+356
+00:14:23,200 --> 00:14:24,570
+Kalau begitu, jangan salahkan kakakmu
+
+357
+00:14:24,630 --> 00:14:26,490
+karena bersikap kejam.
+
+358
+00:14:30,200 --> 00:14:30,780
+Kak Zhang.
+
+359
+00:14:31,160 --> 00:14:31,940
+Sedang menjemur baju?
+
+360
+00:14:34,800 --> 00:14:35,690
+Kenapa kau masih duduk di sini?
+
+361
+00:14:35,800 --> 00:14:36,660
+Bukankah aku memintamu
+
+362
+00:14:36,800 --> 00:14:37,690
+mengantarkan arang ke atas?
+
+363
+00:14:37,750 --> 00:14:39,490
+Jangan membuat teman Xuejiao menunggu.
+
+364
+00:14:39,590 --> 00:14:40,490
+Tenang saja.
+
+365
+00:14:40,680 --> 00:14:41,970
+Tadi baru kuantarkan.
+
+366
+00:14:46,350 --> 00:14:47,180
+Kebetulan ada waktu,
+
+367
+00:14:47,870 --> 00:14:49,490
+kita bahas masalahku saja.
+
+368
+00:14:50,440 --> 00:14:50,940
+Kau kenapa?
+
+369
+00:14:51,470 --> 00:14:52,730
+Jika kau tidak ungkit,
+tidak akan kupikirkan.
+
+370
+00:14:53,040 --> 00:14:53,900
+Tadi malam,
+kau mendengkur sepanjang malam,
+
+371
+00:14:54,080 --> 00:14:54,850
+membuatku tidak bisa tidur nyenyak.
+
+372
+00:14:55,440 --> 00:14:56,210
+Bukan.
+
+373
+00:14:56,400 --> 00:14:57,940
+Bukan masalah aku mendengkur.
+
+374
+00:14:59,160 --> 00:15:00,210
+Jadi, kau punya masalah apa lagi?
+
+375
+00:15:00,990 --> 00:15:02,540
+Bukankah aku sudah
+memberitahumu kemarin?
+
+376
+00:15:03,750 --> 00:15:04,940
+Tentang membeli mobil.
+
+377
+00:15:07,590 --> 00:15:08,420
+Untuk apa membeli mobil?
+
+378
+00:15:09,040 --> 00:15:11,090
+Sekarang hidup kita
+baru sedikit lebih baik.
+
+379
+00:15:14,510 --> 00:15:15,060
+Aku...
+
+380
+00:15:20,440 --> 00:15:21,330
+Aku berpikir seperti ini.
+
+381
+00:15:22,080 --> 00:15:22,730
+Aku
+
+382
+00:15:23,280 --> 00:15:23,940
+sudah sedewasa ini.
+
+383
+00:15:24,080 --> 00:15:25,690
+Tidak baik
+jika setiap harinya hanya bersantai
+
+384
+00:15:26,110 --> 00:15:26,780
+di rumah.
+
+385
+00:15:27,440 --> 00:15:28,140
+Kita beli mobil.
+
+386
+00:15:28,560 --> 00:15:29,330
+Mobil kita sendiri.
+
+387
+00:15:30,040 --> 00:15:31,330
+Aku akan berkeliling
+di luar setiap bulan,
+
+388
+00:15:31,510 --> 00:15:32,570
+setidaknya bisa
+menghasilkan sedikit uang.
+
+389
+00:15:33,440 --> 00:15:34,180
+Yang terpenting adalah
+
+390
+00:15:34,320 --> 00:15:35,090
+mobil kita sendiri
+
+391
+00:15:35,280 --> 00:15:35,810
+tidak perlu membayar komisi
+
+392
+00:15:35,990 --> 00:15:37,180
+kepada perusahaan taksi.
+
+393
+00:15:37,350 --> 00:15:37,970
+Ini bagus sekali.
+
+394
+00:15:40,350 --> 00:15:41,690
+Aku juga bisa mengantar
+dan menjemputmu pulang kerja.
+
+395
+00:15:42,960 --> 00:15:43,330
+Jangan.
+
+396
+00:15:43,510 --> 00:15:44,660
+Aku tidak mau menyuruh-nyuruhmu.
+
+397
+00:15:46,040 --> 00:15:46,970
+Kau sendiri ingin
+menjadi sopir taksi tanpa izin,
+
+398
+00:15:47,160 --> 00:15:48,210
+maka kau lakukan saja.
+
+399
+00:15:48,440 --> 00:15:49,610
+Jangan menjadikanku kedokmu.
+
+400
+00:15:51,710 --> 00:15:52,260
+Kau
+
+401
+00:15:52,440 --> 00:15:53,180
+selalu memikirkan
+
+402
+00:15:53,350 --> 00:15:55,090
+segala sesuatu dengan begitu sederhana.
+
+403
+00:15:55,710 --> 00:15:56,730
+Dari mana uangnya?
+
+404
+00:15:57,110 --> 00:15:58,660
+Bukankah semua uang keluarga kita
+ada di pasar saham?
+
+405
+00:16:01,510 --> 00:16:02,570
+Bukankah kau bilang
+
+406
+00:16:02,680 --> 00:16:03,810
+uang di pasar saham terus meningkat?
+
+407
+00:16:04,280 --> 00:16:05,060
+Kenapa kau mendadak ingin
+
+408
+00:16:05,160 --> 00:16:05,900
+menjadi sopir taksi?
+
+409
+00:16:07,590 --> 00:16:08,180
+Itu...
+
+410
+00:16:08,440 --> 00:16:08,810
+Benar.
+
+411
+00:16:10,230 --> 00:16:12,180
+Sekarang paham saham
+memang terus meningkat.
+
+412
+00:16:13,960 --> 00:16:15,210
+Bukan aku yang ingin membeli mobil,
+
+413
+00:16:15,350 --> 00:16:15,780
+melainkan
+
+414
+00:16:16,110 --> 00:16:16,780
+Xuejiao.
+
+415
+00:16:17,280 --> 00:16:17,850
+Dua hari lalu,
+
+416
+00:16:18,040 --> 00:16:18,850
+Xuejiao tahu aku pergi melihat mobil.
+
+417
+00:16:19,920 --> 00:16:21,090
+Dia memberitahuku ada yang namanya
+
+418
+00:16:21,400 --> 00:16:23,660
+rekrutmen publik uji coba beta
+layanan mobil pribadi.
+
+419
+00:16:24,830 --> 00:16:25,690
+Dia memberiku sebuah daftar.
+
+420
+00:16:26,160 --> 00:16:26,540
+Bukan.
+
+421
+00:16:27,200 --> 00:16:28,440
+pergi menjaga toilet umum?
+(*Toilet umum homofon dengan uji coba)
+
+422
+00:16:29,200 --> 00:16:30,140
+Aku mengemudi layanan mobil pribadi.
+
+423
+00:16:30,320 --> 00:16:31,300
+Apanya yang menjaga toilet umum?
+
+424
+00:16:31,560 --> 00:16:32,180
+Kuambilkan daftar itu untukmu.
+
+425
+00:16:32,230 --> 00:16:32,780
+Kau coba lihat.
+
+426
+00:16:33,470 --> 00:16:35,660
+Kau yang menyebut-nyebut toilet umum.
+
+427
+00:16:36,960 --> 00:16:38,210
+Ini hal baru apa lagi?
+
+428
+00:16:46,080 --> 00:16:47,260
+Baiklah, sudah siap.
+
+429
+00:16:47,990 --> 00:16:48,450
+Bagus sekali.
+
+430
+00:16:48,680 --> 00:16:50,300
+Senior, sosisnya harus gosong sedikit.
+
+431
+00:16:51,110 --> 00:16:51,970
+Baik, tidak masalah.
+
+432
+00:16:52,110 --> 00:16:53,090
+Ini untuk Xuejiao.
+
+433
+00:16:54,080 --> 00:16:54,940
+Kau baik sekali kepadanya.
+
+434
+00:16:55,960 --> 00:16:56,450
+Yi Tianyu.
+
+435
+00:16:56,800 --> 00:16:58,260
+Kebetulan, dua hari lagi
+ada pertandingan basket,
+
+436
+00:16:58,590 --> 00:16:59,610
+kita diskusikan strategi
+
+437
+00:16:59,710 --> 00:17:00,300
+dan bekerja sama.
+
+438
+00:17:00,510 --> 00:17:01,210
+Ayo, duduk.
+
+439
+00:17:02,040 --> 00:17:02,810
+Ayo, Tianyu, makan semangka.
+
+440
+00:17:07,160 --> 00:17:08,420
+Kau tidak mengundang Shiyun,
+
+441
+00:17:08,750 --> 00:17:10,490
+aku juga tidak akan membiarkan
+harapanmu terwujud.
+
+442
+00:17:17,510 --> 00:17:17,970
+Senior Lin,
+
+443
+00:17:18,230 --> 00:17:18,690
+biar kubantu.
+
+444
+00:17:20,600 --> 00:17:21,820
+Siapa atlet basket kesukaanmu?
+
+445
+00:17:25,400 --> 00:17:26,250
+Jangan terburu-buru.
+
+446
+00:17:27,200 --> 00:17:28,580
+Apa keuntungan
+yang dijanjikan Gao Rui kepadamu?
+
+447
+00:17:31,070 --> 00:17:33,290
+Ke... keuntungan apa?
+
+448
+00:17:34,120 --> 00:17:35,010
+Kau tertipu olehnya.
+
+449
+00:17:36,160 --> 00:17:37,380
+Aku sejak awal sudah memberitahunya
+
+450
+00:17:37,790 --> 00:17:39,100
+aku akan mengajarimu
+sampai selesai ujian masuk universitas.
+
+451
+00:17:39,750 --> 00:17:40,180
+Benarkah?
+
+452
+00:17:40,680 --> 00:17:41,250
+Bagus sekali.
+
+453
+00:17:43,400 --> 00:17:43,820
+Kau lihat.
+
+454
+00:17:45,030 --> 00:17:48,450
+Senior Gao juga tidak cakap,
+
+455
+00:17:48,960 --> 00:17:49,900
+tidak bisa menjaga rahasia.
+
+456
+00:17:54,310 --> 00:17:54,860
+Terima kasih.
+
+457
+00:17:57,400 --> 00:17:58,100
+Ini, barbeku sudah matang.
+
+458
+00:17:59,510 --> 00:18:00,340
+Terima kasih, Senior Lin.
+
+459
+00:18:00,550 --> 00:18:01,660
+Terima kasih, Senior.
+
+460
+00:18:02,470 --> 00:18:03,210
+Aku mau makan ham.
+
+461
+00:18:03,440 --> 00:18:04,340
+Kelihatan enak sekali.
+
+462
+00:18:04,440 --> 00:18:04,770
+Terima kasih.
+
+463
+00:18:04,790 --> 00:18:05,660
+Aku mau makan ham.
+
+464
+00:18:05,680 --> 00:18:06,420
+Enak.
+
+465
+00:18:06,440 --> 00:18:06,860
+Makan satu.
+
+466
+00:18:08,030 --> 00:18:08,660
+Aku tidak mau makan lagi.
+
+467
+00:18:09,550 --> 00:18:10,530
+Kenapa tidak makan? Ini enak sekali.
+
+468
+00:18:14,550 --> 00:18:15,140
+Ya sudah.
+
+469
+00:18:27,640 --> 00:18:28,580
+Sesi pesan lagu.
+
+470
+00:18:29,600 --> 00:18:30,900
+Tianyu, kapan kau mempelajarinya?
+
+471
+00:18:32,120 --> 00:18:32,490
+Xuejiao,
+
+472
+00:18:32,960 --> 00:18:33,580
+kau suka dengar apa?
+
+473
+00:18:33,680 --> 00:18:34,210
+Kunyanyikan untukmu.
+
+474
+00:18:35,640 --> 00:18:36,210
+Kalau begitu...
+
+475
+00:18:36,310 --> 00:18:37,290
+- Jay Chou.
+- David Tao.
+
+476
+00:18:38,270 --> 00:18:39,450
+Yang kalian sebutkan terlalu sulit.
+
+477
+00:18:39,600 --> 00:18:40,860
+Aku baru mulai belajar.
+
+478
+00:18:42,230 --> 00:18:42,970
+Bagaimana kalau
+
+479
+00:18:43,120 --> 00:18:44,970
+kunyanyikan lagu yang paling kukuasai?
+
+480
+00:18:45,750 --> 00:18:46,100
+Xuejiao.
+
+481
+00:18:46,600 --> 00:18:47,970
+Kau harus ingat
+bertepuk tangan untukku.
+
+482
+00:18:50,200 --> 00:18:50,660
+Aku mulai.
+
+483
+00:18:51,760 --> 00:18:53,360
+♪Di kamar yang gelap♪
+
+484
+00:18:53,400 --> 00:18:56,920
+♪Harus sangat berhati-hati
+saat menyalakan lampu♪
+
+485
+00:18:57,720 --> 00:19:02,560
+♪Agar tidak ada suara yang hampa♪
+
+486
+00:19:04,280 --> 00:19:06,280
+♪Membuka kenangan♪
+
+487
+00:19:07,600 --> 00:19:11,040
+♪Setiap baris jejak kaki
+yang saling menyimpang♪
+
+488
+00:19:11,720 --> 00:19:16,880
+♪Karena kita sedang
+saling mendekati satu sama lain♪
+
+489
+00:19:18,600 --> 00:19:21,800
+♪Biarkan takdir yang menentukan♪
+
+490
+00:19:22,200 --> 00:19:25,880
+♪Biarkan kita menyerahkan
+seluruh keberanian♪
+
+491
+00:19:26,240 --> 00:19:31,200
+♪Semoga kau melangkah
+ke perjalanan waktu ini♪
+
+492
+00:19:32,600 --> 00:19:34,320
+♪Jika kau juga♪
+
+493
+00:19:36,160 --> 00:19:39,400
+♪Memahami rahasia di dalam sorot mataku♪
+
+494
+00:19:41,040 --> 00:19:45,960
+♪Kau akan sadar
+bahwa kau selalu ada di hatiku♪
+
+495
+00:19:51,160 --> 00:19:56,920
+♪Aku mencoba membuka kedua tangan♪
+
+496
+00:19:58,120 --> 00:20:01,560
+♪Karena mencintai dengan sangat yakin♪
+
+497
+00:20:02,720 --> 00:20:04,920
+♪Aku menunggumu di puncak♪
+
+498
+00:20:08,880 --> 00:20:09,380
+Kenapa?
+
+499
+00:20:09,510 --> 00:20:10,010
+Apakah kau terbakar?
+
+500
+00:20:11,750 --> 00:20:12,380
+Apakah sakit?
+
+501
+00:20:12,920 --> 00:20:14,580
+Sedikit.
+
+502
+00:20:16,320 --> 00:20:22,440
+♪Aku tahu itu adalah dirimu♪
+
+503
+00:20:23,030 --> 00:20:23,820
+Lanjutkan menyanyi.
+
+504
+00:20:23,840 --> 00:20:24,340
+Menyanyilah.
+
+505
+00:20:24,600 --> 00:20:25,210
+Sedikit.
+
+506
+00:20:32,120 --> 00:20:32,730
+Maaf.
+
+507
+00:20:32,960 --> 00:20:33,490
+Bantu aku pegang.
+
+508
+00:20:37,920 --> 00:20:39,100
+Yi Tianyu, kau sedang apa?
+
+509
+00:20:39,400 --> 00:20:40,010
+Sudah basah semua.
+
+510
+00:20:41,030 --> 00:20:41,660
+Aku bukan sengaja.
+
+511
+00:20:42,270 --> 00:20:42,940
+Kau baik-baik saja?
+
+512
+00:20:43,840 --> 00:20:44,180
+Terima kasih.
+
+513
+00:20:44,400 --> 00:20:45,490
+Aku pergi matikan air.
+
+514
+00:20:51,160 --> 00:20:52,420
+Ini tidak bisa dimatikan, lepaskan.
+
+515
+00:20:52,470 --> 00:20:53,290
+Kendalikan ini.
+
+516
+00:20:53,310 --> 00:20:54,690
+Seseorang, tolong kendalikan ini!
+
+517
+00:21:01,750 --> 00:21:02,770
+Apakah kau mau lihat pelangi?
+
+518
+00:21:08,310 --> 00:21:09,290
+Menjauh sedikit.
+
+519
+00:21:10,790 --> 00:21:11,340
+Sini, biar aku saja.
+
+520
+00:21:20,120 --> 00:21:20,820
+Pelangi!
+
+521
+00:21:31,750 --> 00:21:32,180
+Biar aku.
+
+522
+00:21:32,200 --> 00:21:32,970
+Pelangi!
+
+523
+00:21:33,030 --> 00:21:33,530
+Biar aku.
+
+524
+00:21:38,440 --> 00:21:40,100
+Matahari, pelangi,
+
+525
+00:21:40,600 --> 00:21:42,210
+berlari, bergembira,
+
+526
+00:21:42,680 --> 00:21:44,340
+pertemanan, kekeluargaan,
+
+527
+00:21:45,160 --> 00:21:46,860
+bersinar, bertumbuh.
+
+528
+00:21:48,600 --> 00:21:49,320
+Masa mudaku.
+
+529
+00:21:49,990 --> 00:21:51,290
+Masa mudaku setelah terlahir kembali.
+
+530
+00:21:52,070 --> 00:21:52,770
+Terima kasih kepada kalian
+
+531
+00:21:53,230 --> 00:21:54,420
+karena telah menemaniku
+bermain di bawah matahari.
+
+532
+00:21:55,510 --> 00:21:56,180
+Semoga kita
+
+533
+00:21:56,200 --> 00:21:57,340
+bersama-sama cemerlang
+seperti pelangi.
+
+534
+00:22:00,440 --> 00:22:03,120
+♪Sekarang akan memformat kehidupan♪
+
+535
+00:22:03,880 --> 00:22:06,880
+♪Matematika dan fisika
+tidak termasuk rumit♪
+
+536
+00:22:06,960 --> 00:22:08,520
+♪Masa muda masih goyah♪
+
+537
+00:22:08,560 --> 00:22:12,040
+♪Kita perlahan-lahan bertambah kuat♪
+
+538
+00:22:13,680 --> 00:22:17,360
+♪Hatiku masih tetap hangat dan membara♪
+
+539
+00:22:17,360 --> 00:22:21,240
+♪Ikuti ritme ini, dilepaskan sepuasnya♪
+
+540
+00:22:23,160 --> 00:22:24,010
+Kali ini,
+
+541
+00:22:24,440 --> 00:22:25,900
+akhirnya berhasil mengubah SMA-ku
+yang berakhir dengan menyedihkan
+
+542
+00:22:25,920 --> 00:22:27,340
+di kali sebelumnya.
+
+543
+00:22:28,680 --> 00:22:29,580
+Pendampingan mereka
+
+544
+00:22:30,030 --> 00:22:31,490
+juga menggantikan novel romansa.
+
+545
+00:22:32,640 --> 00:22:33,620
+Menjadi kenanganku yang paling
+
+546
+00:22:33,640 --> 00:22:34,690
+tidak terlupakan kali ini.
+
+547
+00:22:36,280 --> 00:22:42,160
+♪Biarkan kita melewati rintangan waktu♪
+
+548
+00:22:55,790 --> 00:22:56,290
+Bukan.
+
+549
+00:22:57,120 --> 00:22:58,620
+Kenapa malah aku yang terpikat?
+
+550
+00:22:59,790 --> 00:23:00,730
+Gu Xuejiao,
+
+551
+00:23:01,360 --> 00:23:02,900
+tidak boleh terjatuh dua kali
+
+552
+00:23:02,920 --> 00:23:03,860
+di lubang yang sama.
+
+553
+00:23:04,640 --> 00:23:05,770
+Kenapa kau masih dikuasai nafsu duniawi?
+
+554
+00:23:08,070 --> 00:23:09,340
+Sesuai kata pepatah,
+
+555
+00:23:10,070 --> 00:23:11,580
+ubah perasaan terpikat menjadi kekuatan.
+
+556
+00:23:12,750 --> 00:23:14,490
+Lalu, wawasan adalah kekuatan.
+
+557
+00:23:16,230 --> 00:23:17,530
+Belajar sebentar untuk tenangkan diri.
+
+558
+00:23:23,960 --> 00:23:25,620
+Gu Xuejiao, oh Gu Xuejiao.
+
+559
+00:23:26,360 --> 00:23:27,140
+Kau begitu rajin,
+
+560
+00:23:27,310 --> 00:23:28,860
+apakah masih
+menyisakan jalan untuk orang lain?
+
+561
+00:23:30,030 --> 00:23:31,770
+Sungguh tidak berdaya
+terhadap pekerja keras
+
+562
+00:23:31,790 --> 00:23:32,620
+sepertimu.
+
+563
+00:23:35,960 --> 00:23:37,480
+[Lin Zhihua]
+
+564
+00:23:41,160 --> 00:23:42,210
+Benar-benar ada hadiah.
+
+565
+00:23:43,920 --> 00:23:45,900
+Bukankah kau bilang
+100 set soal matematika?
+
+566
+00:23:48,160 --> 00:23:49,140
+Bukankah kau ingin tahu
+
+567
+00:23:49,680 --> 00:23:50,530
+cara menjadi juara satu
+dari peringkat terakhir
+
+568
+00:23:50,750 --> 00:23:51,690
+dalam satu tahun kelas tiga SMA?
+
+569
+00:23:53,160 --> 00:23:53,690
+Bakat,
+
+570
+00:23:54,270 --> 00:23:55,210
+usaha dan keberuntungan.
+
+571
+00:23:56,840 --> 00:23:57,490
+Aku sudah
+
+572
+00:23:57,990 --> 00:23:58,660
+melihat semua ini.
+
+573
+00:23:58,660 --> 00:23:59,040
+[Merayakan kemenangan Gu Xuejiao
+dalam ujian simulasi]
+
+574
+00:23:59,470 --> 00:24:00,010
+Kau punya semuanya.
+
+575
+00:24:01,120 --> 00:24:01,730
+Jadi, aku hanya bisa
+
+576
+00:24:01,920 --> 00:24:02,420
+menjadikan pengalamanku
+
+577
+00:24:02,550 --> 00:24:03,530
+sebagai hadiah kecil
+
+578
+00:24:04,640 --> 00:24:05,180
+dan diberikan kepadamu.
+
+579
+00:24:23,200 --> 00:24:23,770
+Dua lingkaran.
+
+580
+00:24:24,470 --> 00:24:25,100
+Tiga bambu.
+
+581
+00:24:25,600 --> 00:24:26,450
+Sembilan lingkaran.
+
+582
+00:24:26,790 --> 00:24:27,970
+Yi, keluarkan ubinmu.
+
+583
+00:24:28,400 --> 00:24:29,210
+Apa yang sedang kau pikirkan?
+
+584
+00:24:29,440 --> 00:24:30,380
+Nak, kau bantu Ayah lihat,
+
+585
+00:24:30,470 --> 00:24:31,250
+keluarkan ubin apa kali ini?
+
+586
+00:24:33,470 --> 00:24:34,010
+Satu bambu.
+
+587
+00:24:34,510 --> 00:24:34,970
+Baik.
+
+588
+00:24:35,840 --> 00:24:37,290
+Kau selalu sangat beruntung.
+
+589
+00:24:37,600 --> 00:24:38,100
+Jika mendengarkanmu,
+
+590
+00:24:38,160 --> 00:24:39,250
+aku pasti bisa memenangkan ronde ini.
+
+591
+00:24:39,790 --> 00:24:40,250
+Pergilah.
+
+592
+00:24:40,960 --> 00:24:41,210
+Kong.
+
+593
+00:24:41,680 --> 00:24:42,580
+Bunga di atas Kong.
+
+594
+00:24:43,920 --> 00:24:44,420
+Yi,
+
+595
+00:24:44,640 --> 00:24:45,900
+kau membantuku menang banyak kali ini.
+
+596
+00:24:46,070 --> 00:24:47,050
+Aku sedang sial hari ini.
+
+597
+00:24:49,710 --> 00:24:50,420
+Halo, Tamu Penting,
+
+598
+00:24:50,470 --> 00:24:51,530
+pelayanan Anda telah selesai.
+
+599
+00:24:51,710 --> 00:24:52,860
+Saat pergi,
+
+600
+00:24:52,960 --> 00:24:53,900
+harap membawa semua barang Anda.
+
+601
+00:24:53,990 --> 00:24:55,180
+Semoga istirahat Anda menyenangkan.
+
+602
+00:25:09,030 --> 00:25:09,380
+Nak,
+
+603
+00:25:09,600 --> 00:25:11,450
+bunga di atas Kong tadi
+
+604
+00:25:12,070 --> 00:25:13,010
+harus berterima kasih kepadamu.
+
+605
+00:25:13,440 --> 00:25:14,250
+Paman-paman itu
+
+606
+00:25:14,310 --> 00:25:15,210
+bermain dengan gembira sekali.
+
+607
+00:25:15,680 --> 00:25:17,660
+Saat aku ke sana
+untuk membeli semen dan pasir lagi,
+
+608
+00:25:17,920 --> 00:25:19,420
+dia akan tidak enak hati
+jika tidak memberiku diskon.
+
+609
+00:25:20,840 --> 00:25:21,530
+Apakah
+
+610
+00:25:21,750 --> 00:25:22,900
+keluarga kita kekurangan
+beberapa ton pasir itu?
+
+611
+00:25:23,310 --> 00:25:24,210
+Beberapa ton pasir?
+
+612
+00:25:24,640 --> 00:25:26,140
+Aku pesan belasan mobil dengan mereka.
+
+613
+00:25:26,790 --> 00:25:28,450
+Inilah dinamika Keluarga Yi.
+
+614
+00:25:28,710 --> 00:25:29,620
+Sukses dalam segala hal yang dilakukan.
+
+615
+00:25:29,790 --> 00:25:30,690
+Menang dalam segala hal yang dilakukan.
+
+616
+00:25:31,840 --> 00:25:32,860
+Oh, ya, apakah uang jajanmu
+
+617
+00:25:32,920 --> 00:25:33,770
+masih cukup?
+
+618
+00:25:33,840 --> 00:25:34,140
+Ini.
+
+619
+00:25:34,960 --> 00:25:35,900
+Kuberikan sedikit lagi, ini.
+
+620
+00:25:37,400 --> 00:25:37,860
+Terima kasih, Ayah.
+
+621
+00:25:38,360 --> 00:25:39,730
+Ini ada selembar foto
+dengan tanda tangan.
+
+622
+00:25:40,070 --> 00:25:41,820
+Kau sekalian bawakan untuk Gu.
+
+623
+00:25:45,640 --> 00:25:46,100
+Kenapa?
+
+624
+00:25:46,360 --> 00:25:47,050
+Tidak suka artis lagi?
+
+625
+00:25:47,270 --> 00:25:47,730
+Bukan.
+
+626
+00:25:48,790 --> 00:25:49,690
+Hanya saja,
+
+627
+00:25:50,160 --> 00:25:50,940
+Tang Jingjing...
+
+628
+00:25:51,030 --> 00:25:51,900
+Perusahaan film ini adalah
+
+629
+00:25:52,270 --> 00:25:53,690
+investor utama film Tang Jingjing, 'kan?
+
+630
+00:25:54,470 --> 00:25:55,420
+Perusahaan film ini
+
+631
+00:25:55,510 --> 00:25:56,660
+punya begitu banyak berita buruk.
+
+632
+00:25:57,270 --> 00:25:58,180
+Apakah kau tidak takut
+
+633
+00:25:58,360 --> 00:25:59,180
+ayahmu akan rugi besar?
+
+634
+00:25:59,550 --> 00:26:00,820
+Kubantu kau menganalisisnya lagi.
+
+635
+00:26:01,070 --> 00:26:01,420
+Lihatlah,
+
+636
+00:26:01,600 --> 00:26:02,690
+film dengan perusahaan ini
+sebagai investor utama,
+
+637
+00:26:02,960 --> 00:26:04,690
+ini, ini, ini,
+
+638
+00:26:04,960 --> 00:26:05,450
+gagal.
+
+639
+00:26:06,680 --> 00:26:08,380
+Ini, ini, ini,
+
+640
+00:26:08,640 --> 00:26:09,180
+sukses.
+
+641
+00:26:10,200 --> 00:26:10,900
+Apa persamaannya?
+
+642
+00:26:12,270 --> 00:26:13,100
+Semua bos mereka
+
+643
+00:26:13,470 --> 00:26:14,450
+shio harimau.
+
+644
+00:26:15,270 --> 00:26:15,900
+Apa shio ayahmu?
+
+645
+00:26:16,360 --> 00:26:16,620
+Harimau.
+
+646
+00:26:16,750 --> 00:26:17,970
+Jadi, tidak peduli dari segi ilmiah
+
+647
+00:26:18,070 --> 00:26:19,140
+atau segi metafisika,
+
+648
+00:26:19,310 --> 00:26:21,290
+ayahmu tetap
+tidak boleh menyentuh film ini.
+
+649
+00:26:25,120 --> 00:26:26,010
+Tidak ada hal seperti itu.
+
+650
+00:26:26,510 --> 00:26:27,820
+Apanya yang shio harimau atau naga?
+
+651
+00:26:27,960 --> 00:26:28,970
+Kenapa kau begitu percaya takhayul?
+
+652
+00:26:29,120 --> 00:26:29,770
+Bukan aku.
+
+653
+00:26:30,200 --> 00:26:31,210
+Ini kesimpulan
+
+654
+00:26:31,400 --> 00:26:32,380
+yang dibuat oleh Xuejiao untukmu.
+
+655
+00:26:35,270 --> 00:26:36,770
+Kalau ini ucapan Xuejiao,
+
+656
+00:26:37,070 --> 00:26:37,940
+cukup ilmiah.
+
+657
+00:26:38,920 --> 00:26:40,340
+Sikapmu berubah
+secepat membalik halaman buku.
+
+658
+00:26:42,510 --> 00:26:43,690
+Ucapan Gu
+
+659
+00:26:43,920 --> 00:26:45,180
+pantas untuk dijadikan referensi.
+
+660
+00:26:51,880 --> 00:26:52,290
+Ayah.
+
+661
+00:26:53,310 --> 00:26:53,820
+Bagaimana kalau
+
+662
+00:26:54,510 --> 00:26:55,900
+jangan berinvestasi pada Tang Jingjing?
+
+663
+00:26:57,600 --> 00:26:58,580
+Nak, kukatakan padamu,
+
+664
+00:26:59,200 --> 00:27:00,450
+bagi wanita,
+
+665
+00:27:00,710 --> 00:27:02,450
+mematuhi ucapan orang sangatlah penting.
+
+666
+00:27:02,790 --> 00:27:03,290
+Namun,
+
+667
+00:27:03,470 --> 00:27:04,730
+seorang pria yang punya pendapat sendiri
+
+668
+00:27:04,840 --> 00:27:06,050
+akan lebih memesona.
+
+669
+00:27:06,790 --> 00:27:08,180
+Kau jangan urus masalah investasi lagi.
+
+670
+00:27:08,710 --> 00:27:10,580
+Minggu depan, aku akan dinas
+untuk tanda tangan kontrak.
+
+671
+00:27:10,990 --> 00:27:11,290
+Ini
+
+672
+00:27:11,600 --> 00:27:13,140
+adalah kepercayaan diri Keluarga Yi.
+
+673
+00:27:48,640 --> 00:27:49,490
+1314
+Nomor 1314.
+
+674
+00:27:50,230 --> 00:27:50,860
+817
+Nomor 817.
+
+675
+00:27:51,310 --> 00:27:52,210
+Benar, aku orangnya.
+
+676
+00:27:52,310 --> 00:27:52,690
+Mari.
+
+677
+00:27:54,880 --> 00:27:55,900
+Aku datang.
+
+678
+00:27:56,120 --> 00:27:57,420
+Maaf telah menunggu.
+
+679
+00:27:57,790 --> 00:27:58,290
+Mari.
+
+680
+00:28:00,400 --> 00:28:00,820
+Hati-hati.
+
+681
+00:28:01,030 --> 00:28:01,660
+Profesional sekali.
+
+682
+00:28:15,880 --> 00:28:16,420
+Pelanggan, halo.
+
+683
+00:28:16,840 --> 00:28:18,210
+Aku adalah
+sopir layanan taksi daring Anda,
+
+684
+00:28:18,310 --> 00:28:19,010
+Pak Gu.
+
+685
+00:28:19,310 --> 00:28:20,730
+Sangat senang bisa melayani Anda.
+
+686
+00:28:22,230 --> 00:28:22,730
+Pak Gu,
+
+687
+00:28:23,120 --> 00:28:24,380
+aku terburu-buru naik pesawat.
+
+688
+00:28:24,920 --> 00:28:25,730
+Sebisa mungkin jangan memutar.
+
+689
+00:28:25,960 --> 00:28:26,860
+Tidak akan.
+
+690
+00:28:27,440 --> 00:28:28,100
+Sekarang, kami diawasi
+
+691
+00:28:28,200 --> 00:28:29,050
+oleh platform
+
+692
+00:28:29,120 --> 00:28:30,140
+dari belakang.
+
+693
+00:28:30,550 --> 00:28:31,690
+Selalu berjalan mengikuti navigasi.
+
+694
+00:28:31,880 --> 00:28:32,620
+Anda tenang saja.
+
+695
+00:28:33,470 --> 00:28:34,860
+Aku juga pertama kali
+
+696
+00:28:34,960 --> 00:28:36,140
+memesan taksi daring seperti ini.
+
+697
+00:28:36,440 --> 00:28:37,530
+Putraku yang memesannya untukku.
+
+698
+00:28:38,270 --> 00:28:40,050
+Teknologi sekarang sudah sangat canggih.
+
+699
+00:28:40,470 --> 00:28:40,730
+Benar.
+
+700
+00:28:40,960 --> 00:28:41,970
+Putriku yang memberitahuku
+
+701
+00:28:42,160 --> 00:28:43,100
+kau bisa menjadi
+
+702
+00:28:43,360 --> 00:28:44,420
+sopir taksi daring di internet.
+
+703
+00:28:44,600 --> 00:28:45,730
+Aku mana tahu tentang ini?
+
+704
+00:28:46,070 --> 00:28:46,730
+Menurutku,
+
+705
+00:28:46,880 --> 00:28:47,770
+tetap seperti dulu,
+
+706
+00:28:48,070 --> 00:28:48,940
+mencari pesanan,
+
+707
+00:28:49,120 --> 00:28:50,050
+mengulurkan tangan, naik ke mobil,
+
+708
+00:28:50,160 --> 00:28:50,820
+lalu langsung jalan.
+
+709
+00:28:50,960 --> 00:28:51,690
+Ini praktis sekali.
+
+710
+00:28:51,840 --> 00:28:53,660
+Yang disebut aplikasi ini,
+
+711
+00:28:53,790 --> 00:28:54,580
+aku tidak bisa memakainya.
+
+712
+00:28:55,510 --> 00:28:56,770
+Zaman sudah berbeda.
+
+713
+00:28:56,920 --> 00:28:57,530
+Ini bagus.
+
+714
+00:28:57,960 --> 00:28:59,290
+Kau setidaknya punya jaminan,
+
+715
+00:28:59,360 --> 00:28:59,770
+benar, 'kan?
+
+716
+00:29:00,160 --> 00:29:01,690
+Lebih baik daripada
+menjadi sopir tanpa izin.
+
+717
+00:29:02,360 --> 00:29:03,450
+Ucapan Anda ini benar.
+
+718
+00:29:03,510 --> 00:29:03,970
+Benar, 'kan?
+
+719
+00:29:04,160 --> 00:29:04,900
+Sekarang, pokoknya
+
+720
+00:29:04,920 --> 00:29:05,660
+aku membawa mobil ini,
+
+721
+00:29:06,680 --> 00:29:07,180
+aku sama sekali
+
+722
+00:29:07,270 --> 00:29:08,660
+tidak takut
+polisi lalu lintas menghentikanku.
+
+723
+00:29:09,640 --> 00:29:10,940
+Di depan terjadi kecelakaan.
+
+724
+00:29:10,960 --> 00:29:12,490
+Ada apa dengan mobil ini?
+
+725
+00:29:12,960 --> 00:29:13,620
+Ayo jalan.
+
+726
+00:29:14,200 --> 00:29:14,620
+Pak,
+
+727
+00:29:14,990 --> 00:29:16,210
+aku terburu-buru naik pesawat.
+
+728
+00:29:16,550 --> 00:29:18,250
+Kita sebisa mungkin menyalip mobil.
+
+729
+00:29:20,120 --> 00:29:21,690
+Putriku setiap hari mengingatkanku
+
+730
+00:29:21,960 --> 00:29:23,050
+bahwa keamanan penumpang
+
+731
+00:29:23,120 --> 00:29:24,420
+selamanya nomor satu.
+
+732
+00:29:25,470 --> 00:29:26,620
+Putrimu adalah putri yang baik.
+
+733
+00:29:27,230 --> 00:29:27,770
+Benar.
+
+734
+00:29:27,840 --> 00:29:28,450
+Maaf.
+
+735
+00:29:29,160 --> 00:29:30,450
+Nanti setelah sampai di bandara,
+
+736
+00:29:30,840 --> 00:29:32,450
+Anda langsung berlari di depan,
+
+737
+00:29:32,920 --> 00:29:34,050
+aku akan membawakan koper Anda.
+
+738
+00:29:34,160 --> 00:29:34,970
+Aku akan mengikuti Anda dari belakang.
+
+739
+00:29:39,510 --> 00:29:41,010
+Kau sudah memasukkan koperku
+ke mobil, 'kan?
+
+740
+00:29:41,710 --> 00:29:42,140
+Koper?
+
+741
+00:29:42,680 --> 00:29:44,340
+Tidak, tidak kumasukkan.
+
+742
+00:29:45,120 --> 00:29:45,900
+Anda tidak memasukkannya?
+
+743
+00:29:46,750 --> 00:29:47,860
+Tidak kumasukkan.
+
+744
+00:29:48,030 --> 00:29:49,140
+Kenapa kau tidak memasukkan koper?
+
+745
+00:29:49,200 --> 00:29:50,380
+Cepat putar balik, kembali.
+
+746
+00:29:50,440 --> 00:29:50,820
+Cepat.
+
+747
+00:29:51,360 --> 00:29:52,010
+Nanti bisa hilang.
+
+748
+00:29:57,470 --> 00:29:57,860
+Maaf.
+
+749
+00:29:57,880 --> 00:29:58,970
+Cara mengemudimu ini.
+
+750
+00:30:00,790 --> 00:30:01,290
+Halo.
+
+751
+00:30:03,710 --> 00:30:04,660
+Penumpang yang terhormat,
+
+752
+00:30:04,960 --> 00:30:06,490
+kami sangat menyesal
+untuk memberi tahu Anda
+
+753
+00:30:06,960 --> 00:30:08,770
+bahwa penerbangan CA171 Anda
+
+754
+00:30:08,920 --> 00:30:10,940
+yang menuju ke Kota Shen
+telah dibatalkan.
+
+755
+00:30:11,960 --> 00:30:12,770
+Satu demi satu masalah.
+
+756
+00:30:13,360 --> 00:30:14,690
+Aku tidak melihat kalender dulu
+sebelum keluar.
+
+757
+00:30:14,750 --> 00:30:15,380
+Ada apa ini?
+
+758
+00:30:15,510 --> 00:30:17,050
+Dari keluar,
+semuanya sudah tidak lancar.
+
+759
+00:30:22,310 --> 00:30:22,770
+Pak Yi,
+
+760
+00:30:23,070 --> 00:30:24,210
+Master sudah membalas.
+
+761
+00:30:24,470 --> 00:30:25,290
+Kekhawatiran Anda benar.
+
+762
+00:30:25,710 --> 00:30:26,730
+Naga Hijau menekan Harimau Putih.
+
+763
+00:30:27,030 --> 00:30:27,970
+Kesialan besar.
+
+764
+00:30:33,550 --> 00:30:34,490
+1314
+Nomor 1314.
+
+765
+00:30:35,230 --> 00:30:35,860
+817
+Nomor 817.
+
+766
+00:30:36,230 --> 00:30:37,010
+817
+Nomor 817.
+
+767
+00:30:37,360 --> 00:30:38,380
+1314
+Nomor 1314.
+
+768
+00:30:38,840 --> 00:30:40,010
+1314817
+Nomor 1314817.
+
+769
+00:30:40,120 --> 00:30:41,290
+8171314
+Nomor 8171314.
+
+770
+00:30:41,440 --> 00:30:42,900
+1314
+Nomor 1314.
+
+771
+00:30:43,230 --> 00:30:45,340
+8171314
+Nomor 8171314.
+
+772
+00:30:45,680 --> 00:30:47,530
+Jangan pergi, satu hidup dan satu mati.
+
+773
+00:30:48,550 --> 00:30:49,660
+Ini adalah takdir.
+
+774
+00:30:50,710 --> 00:30:51,770
+Ini adalah takdir.
+
+775
+00:30:53,470 --> 00:30:55,210
+Ini benar karena putraku melarangku
+
+776
+00:30:55,360 --> 00:30:56,770
+berinvestasi pada film Tang Jingjing.
+
+777
+00:30:57,400 --> 00:30:58,340
+Benar-benar tidak boleh pergi.
+
+778
+00:31:00,990 --> 00:31:01,900
+Sudah, Pak.
+
+779
+00:31:02,840 --> 00:31:03,450
+Tidak perlu terburu-buru lagi.
+
+780
+00:31:03,640 --> 00:31:04,140
+Aku
+
+781
+00:31:04,600 --> 00:31:04,940
+sudah tidak terburu-buru.
+
+782
+00:31:05,230 --> 00:31:05,690
+Berkendara pelan-pelan.
+
+783
+00:31:06,160 --> 00:31:06,660
+Baik.
+
+784
+00:31:07,680 --> 00:31:09,380
+Jadi, koper Anda...
+
+785
+00:31:10,750 --> 00:31:11,420
+Tetap harus lebih cepat.
+
+786
+00:31:11,600 --> 00:31:12,290
+Kopernya jangan sampai hilang.
+
+787
+00:31:12,440 --> 00:31:13,100
+Cepat.
+
+788
+00:31:13,200 --> 00:31:13,730
+Baik.
+
+789
+00:31:14,030 --> 00:31:15,140
+Pasang gigi S.
+
+790
+00:31:16,120 --> 00:31:16,450
+Ini...
+
+791
+00:31:16,680 --> 00:31:17,620
+Sedikit boros bensin.
+
+792
+00:31:17,920 --> 00:31:18,940
+Tidak apa-apa,
+aku akan membayarmu lebih.
+
+793
+00:31:19,200 --> 00:31:19,450
+Baik.
+
+794
+00:31:19,470 --> 00:31:20,140
+Kita punya banyak uang.
+
+795
+00:31:21,640 --> 00:31:22,660
+Senior Lin,
+
+796
+00:31:22,990 --> 00:31:24,580
+hari ini harus izin lagi.
+
+797
+00:31:29,840 --> 00:31:31,420
+Ternyata kau sedang
+menunggu pesan Adik Kelas?
+
+798
+00:31:33,400 --> 00:31:34,690
+Namun, omong-omong,
+
+799
+00:31:35,200 --> 00:31:35,900
+sejak terakhir kali
+
+800
+00:31:35,920 --> 00:31:36,770
+merayakan kesuksesannya,
+
+801
+00:31:37,030 --> 00:31:37,820
+dia sudah izin
+
+802
+00:31:37,880 --> 00:31:38,660
+selama seminggu berturut-turut, 'kan?
+
+803
+00:31:39,510 --> 00:31:40,530
+Kenapa? Apakah sakit?
+
+804
+00:31:43,640 --> 00:31:44,490
+Ini, ini, ini,
+
+805
+00:31:44,640 --> 00:31:45,250
+sukses.
+
+806
+00:31:45,680 --> 00:31:46,660
+Apa persamaan mereka?
+
+807
+00:31:47,230 --> 00:31:48,050
+Untuk film yang gagal,
+
+808
+00:31:48,310 --> 00:31:49,140
+semua bosnya shio harimau.
+
+809
+00:31:49,200 --> 00:31:49,770
+Apa shio ayahmu?
+
+810
+00:31:50,310 --> 00:31:51,340
+Harimau.
+
+811
+00:31:51,840 --> 00:31:52,010
+Benar.
+
+812
+00:31:52,200 --> 00:31:53,530
+Jadi, tidak peduli dari segi ilmiah
+
+813
+00:31:53,640 --> 00:31:54,530
+atau segi metafisika,
+
+814
+00:31:54,790 --> 00:31:56,660
+ayahmu tidak boleh
+menyentuh film ini.
+
+815
+00:32:06,880 --> 00:32:07,620
+Kau kenapa, Lin?
+
+816
+00:32:08,990 --> 00:32:10,100
+Ini sedang pengujian tekanan.
+
+817
+00:32:10,470 --> 00:32:11,770
+Parameter lingkungan
+sepuluh kali lipat melebihi standar,
+
+818
+00:32:11,960 --> 00:32:12,970
+wajar jika alarm berbunyi.
+
+819
+00:32:13,640 --> 00:32:14,490
+Untuk apa kau gugup?
+
+820
+00:32:15,310 --> 00:32:16,050
+Ada apa denganmu hari ini?
+
+821
+00:32:16,360 --> 00:32:17,100
+Kau tidak fokus.
+
+822
+00:32:17,880 --> 00:32:18,620
+Namun,
+
+823
+00:32:18,710 --> 00:32:19,690
+dari tindakan refleksmu
+
+824
+00:32:19,750 --> 00:32:21,140
+yang ingin menolongku tadi,
+
+825
+00:32:21,440 --> 00:32:22,420
+tetap membuatku sangat tersentuh.
+
+826
+00:32:23,160 --> 00:32:24,340
+Aku harus mengunggah Momen
+
+827
+00:32:24,840 --> 00:32:25,450
+untuk memujimu.
+
+828
+00:32:27,470 --> 00:32:29,010
+Mana ada masa-masa yang damai?
+
+829
+00:32:29,270 --> 00:32:30,730
+Saat terjadi masalah, selalu sobat
+
+830
+00:32:30,750 --> 00:32:31,770
+yang menarikku keluar.
+
+831
+00:32:32,990 --> 00:32:33,690
+Idenya tidak buruk,
+
+832
+00:32:34,120 --> 00:32:35,100
+tetapi tulisan kontennya terlalu buruk.
+
+833
+00:32:35,470 --> 00:32:36,420
+Konten Momen sekarang
+
+834
+00:32:36,550 --> 00:32:37,530
+harus lebih kuat.
+
+835
+00:32:37,710 --> 00:32:39,490
+Jika tidak,
+tidak ada yang memberikan suka.
+
+836
+00:32:44,160 --> 00:32:44,970
+Kehidupan murid SMA sekarang
+
+837
+00:32:45,070 --> 00:32:46,010
+cukup beragam,
+
+838
+00:32:46,400 --> 00:32:47,420
+bahkan menonton pertandingan bola.
+
+839
+00:32:57,120 --> 00:32:57,730
+Sudah.
+
+840
+00:32:58,120 --> 00:32:58,970
+Waktu istirahat selesai.
+
+841
+00:32:59,440 --> 00:33:00,380
+Lanjutkan pengujian tekanan.
+
+842
+00:33:02,230 --> 00:33:03,820
+Dia juga harus
+diberikan pengujian tekanan.
+
+843
+00:33:09,750 --> 00:33:10,580
+Aneh sekali.
+
+844
+00:33:12,640 --> 00:33:13,840
+[Kompetisi Bola Basket
+SMA Kota Jinghai Tahun 2015]
+
+845
+00:33:13,840 --> 00:33:14,560
+[SMA Nomor Tujuh Jinghai VS
+SMA Nomor Delapan Jinghai]
+
+846
+00:33:14,560 --> 00:33:15,560
+[SMA Nomor Tujuh Jinghai;
+Kompetisi Bola Basket Tahun 2015]
+
+847
+00:33:15,560 --> 00:33:20,450
+[Kompetisi Bola Basket
+SMA Kota Jinghai Tahun 2015]
+
+848
+00:33:20,510 --> 00:33:22,010
+SMA Nomor Tujuh
+
+849
+00:33:22,230 --> 00:33:23,340
+khusus untuk mengalahkan
+SMA Nomor Delapan!
+
+850
+00:33:23,550 --> 00:33:25,010
+SMA Nomor Tujuh
+
+851
+00:33:25,270 --> 00:33:26,820
+khusus untuk mengalahkan
+SMA Nomor Delapan!
+
+852
+00:33:27,230 --> 00:33:28,100
+Anak-anak ini.
+
+853
+00:33:28,470 --> 00:33:29,900
+Menunjukkan keagungan!
+
+854
+00:33:30,270 --> 00:33:31,730
+SMA Nomor Delapan!
+
+855
+00:33:31,990 --> 00:33:33,420
+Menunjukkan keagungan!
+
+856
+00:33:33,600 --> 00:33:34,620
+Di lapangan basket, sekolah kita
+
+857
+00:33:34,750 --> 00:33:36,450
+dan SMA Nomor Delapan adalah
+musuh bebuyutan.
+
+858
+00:33:36,600 --> 00:33:37,660
+Kali ini, kita harus menunjukkan
+
+859
+00:33:37,790 --> 00:33:38,690
+kewibawaan tuan rumah
+
+860
+00:33:39,030 --> 00:33:40,250
+untuk mematahkan semangat mereka.
+
+861
+00:33:40,360 --> 00:33:41,290
+Jika kau menggunakan semangat ini
+
+862
+00:33:41,440 --> 00:33:42,580
+dalam belajar,
+
+863
+00:33:42,990 --> 00:33:44,290
+kau pasti akan sangat hebat.
+
+864
+00:33:44,510 --> 00:33:45,140
+Ada waktu untuk ini,
+
+865
+00:33:45,200 --> 00:33:46,820
+aku sudah menjawab dua set soal.
+
+866
+00:33:47,200 --> 00:33:48,250
+Menyeimbangkan bekerja dan istirahat,
+
+867
+00:33:48,440 --> 00:33:49,970
+efisiensi belajar
+baru bisa berlipat ganda.
+
+868
+00:33:51,600 --> 00:33:53,620
+Jelas-jelas kau yang memaksaku ke sini.
+
+869
+00:33:54,230 --> 00:33:54,690
+Shiyun,
+
+870
+00:33:54,840 --> 00:33:56,010
+apakah kau sengaja datang
+untuk melihatku?
+
+871
+00:33:56,360 --> 00:33:57,770
+Benar, hari ini kau harus berusaha.
+
+872
+00:33:58,960 --> 00:33:59,420
+Pasti.
+
+873
+00:33:59,640 --> 00:34:00,420
+Mereka sedang menunggumu.
+
+874
+00:34:00,440 --> 00:34:01,010
+Kau cepat pergi bersiap.
+
+875
+00:34:01,070 --> 00:34:01,530
+Aku pergi dulu.
+
+876
+00:34:01,600 --> 00:34:02,620
+Semangat, harus menang.
+
+877
+00:34:03,270 --> 00:34:03,860
+Baik, sampai jumpa.
+
+878
+00:34:04,030 --> 00:34:05,210
+Kenapa murid
+kelas pengulangan juga ikut?
+
+879
+00:34:05,960 --> 00:34:07,250
+SMA Nomor Tujuh!
+
+880
+00:34:07,510 --> 00:34:08,170
+SMA Nomor Delapan memasuki lapangan.
+
+881
+00:34:09,110 --> 00:34:10,260
+SMA Nomor Tujuh
+
+882
+00:34:10,510 --> 00:34:11,940
+khusus untuk mengalahkan
+SMA Nomor Delapan!
+
+883
+00:34:12,150 --> 00:34:19,090
+Semangat!
+
+884
+00:34:25,800 --> 00:34:26,530
+Kedua pihak memberi salam.
+
+885
+00:34:31,670 --> 00:34:32,970
+SMA Nomor Tujuh
+
+886
+00:34:33,320 --> 00:34:34,740
+khusus untuk mengalahkan
+SMA Nomor Delapan!
+
+887
+00:34:41,320 --> 00:34:42,050
+Semangat!
+
+888
+00:34:43,670 --> 00:34:45,260
+Semangat!
+
+889
+00:34:48,240 --> 00:35:01,300
+SMA Nomor Tujuh khusus untuk mengalahkan
+SMA Nomor Delapan!
+
+890
+00:35:01,320 --> 00:35:03,050
+SMA Nomor Tujuh khusus untuk mengalahkan
+SMA Nomor Delapan!
+
+891
+00:35:03,440 --> 00:35:04,530
+SMA Nomor Tujuh!
+
+892
+00:35:11,240 --> 00:35:11,900
+Semangat!
+
+893
+00:35:14,440 --> 00:35:16,120
+SMA Nomor Tujuh, semangat!
+
+894
+00:35:18,480 --> 00:35:20,000
+SMA Nomor Tujuh, semangat!
+
+895
+00:35:16,360 --> 00:35:18,200
+SMA Nomor Tujuh, semangat!
+
+896
+00:35:20,080 --> 00:35:20,800
+Bola yang bagus!
+
+897
+00:35:21,920 --> 00:35:23,420
+Tidak disangka, dia cukup hebat.
+
+898
+00:35:23,880 --> 00:35:25,490
+SMA Nomor Tujuh, semangat!
+
+899
+00:35:26,070 --> 00:35:27,490
+SMA Nomor Tujuh
+
+900
+00:35:27,800 --> 00:35:29,220
+khusus untuk mengalahkan
+SMA Nomor Delapan!
+
+901
+00:35:29,470 --> 00:35:30,530
+Semangat!
+
+902
+00:35:30,880 --> 00:35:32,300
+Khusus untuk mengalahkan
+SMA Nomor Delapan!
+
+903
+00:35:32,550 --> 00:35:34,090
+SMA Nomor Tujuh!
+
+904
+00:35:35,590 --> 00:35:36,650
+Menurutku, ucapanmu benar.
+
+905
+00:35:36,880 --> 00:35:37,570
+Aku memang seharusnya
+
+906
+00:35:37,720 --> 00:35:38,780
+menyerap kebahagiaan dari kemenangan.
+
+907
+00:35:40,840 --> 00:35:41,650
+Semangat!
+
+908
+00:35:41,960 --> 00:35:42,700
+Semangat!
+
+909
+00:35:43,320 --> 00:35:45,820
+Semangat!
+
+910
+00:35:46,030 --> 00:35:47,420
+Bola yang bagus!
+
+911
+00:35:47,720 --> 00:35:48,820
+SMA Nomor Tujuh
+
+912
+00:35:49,150 --> 00:35:50,220
+khusus untuk mengalahkan
+SMA Nomor Delapan!
+
+913
+00:35:51,630 --> 00:35:52,170
+Lihat apa?
+
+914
+00:35:52,560 --> 00:35:55,760
+♪Cintaku masih tetap hangat dan membara♪
+
+915
+00:35:57,110 --> 00:35:57,820
+Kenapa kau ada di sini?
+
+916
+00:35:58,190 --> 00:35:59,050
+Bukankah kau seharusnya bertanding?
+
+917
+00:35:59,190 --> 00:36:00,610
+SMA Nomor Tujuh!
+
+918
+00:36:01,070 --> 00:36:02,450
+Sekarang aku berfokus untuk belajar.
+
+919
+00:36:02,760 --> 00:36:03,820
+Aku sudah terlalu lama
+tidak bermain basket
+
+920
+00:36:03,920 --> 00:36:04,420
+dan sudah kaku.
+
+921
+00:36:05,030 --> 00:36:05,970
+Aku sebaiknya
+
+922
+00:36:06,030 --> 00:36:06,820
+menyemangati mereka dari bawah.
+
+923
+00:36:09,510 --> 00:36:10,170
+Teriak sekuat tenaga.
+
+924
+00:36:10,400 --> 00:36:10,650
+Ayo.
+
+925
+00:36:10,800 --> 00:36:11,860
+SMA Nomor Tujuh
+
+926
+00:36:12,070 --> 00:36:13,260
+khusus untuk mengalahkan
+SMA Nomor Delapan!
+
+927
+00:36:13,720 --> 00:36:15,170
+SMA Nomor Delapan!
+
+928
+00:36:15,550 --> 00:36:17,050
+Menunjukkan keagungan!
+
+929
+00:36:17,550 --> 00:36:19,450
+Semangat!
+
+930
+00:36:19,990 --> 00:36:20,450
+Bagus, 'kan?
+
+931
+00:36:20,960 --> 00:36:22,010
+Ini warna seragam tim kita.
+
+932
+00:36:23,550 --> 00:36:24,220
+Kenapa dia di sana?
+
+933
+00:36:29,400 --> 00:36:30,300
+SMA Nomor Delapan!
+
+934
+00:36:30,550 --> 00:36:31,340
+Semangat!
+
+935
+00:36:37,800 --> 00:36:38,490
+SMA Nomor Tujuh!
+
+936
+00:36:40,400 --> 00:36:42,610
+Semangat, SMA Nomor Tujuh!
+
+937
+00:36:42,960 --> 00:36:44,420
+SMA Nomor Tujuh!
+
+938
+00:36:47,840 --> 00:36:49,420
+Semangat, SMA Nomor Tujuh!
+
+939
+00:36:49,630 --> 00:36:50,340
+SMA Nomor Tujuh!
+
+940
+00:36:52,440 --> 00:36:52,970
+Apa-apaan?
+
+941
+00:36:53,190 --> 00:36:54,090
+Bermain bola atau memukul orang?
+
+942
+00:36:54,150 --> 00:36:54,650
+Gu Mingze!
+
+943
+00:36:54,800 --> 00:36:55,340
+Kau tidak apa-apa?
+
+944
+00:36:55,630 --> 00:36:56,220
+Sedang apa ini?
+
+945
+00:36:56,240 --> 00:36:56,860
+Sedang apa ini?
+
+946
+00:36:57,720 --> 00:36:58,860
+SMA Nomor Delapan tidak etis!
+
+947
+00:36:58,960 --> 00:37:00,010
+Kenapa menabrak orang?
+
+948
+00:37:00,280 --> 00:37:00,900
+Berhenti sebentar!
+
+949
+00:37:01,760 --> 00:37:02,570
+Kau tidak apa-apa?
+
+950
+00:37:03,030 --> 00:37:03,450
+Tidak apa-apa.
+
+951
+00:37:03,470 --> 00:37:04,170
+Kau baik-baik saja?
+
+952
+00:37:10,720 --> 00:37:11,650
+Bantu dia duduk, coba kulihat.
+
+953
+00:37:11,760 --> 00:37:12,130
+Kau baik-baik saja?
+
+954
+00:37:12,440 --> 00:37:12,940
+Bantu dia duduk.
+
+955
+00:37:15,590 --> 00:37:15,900
+Ada apa?
+
+956
+00:37:15,960 --> 00:37:16,450
+Kenapa pemain cadangan kita
+
+957
+00:37:16,510 --> 00:37:17,600
+belum naik ke lapangan?
+
+958
+00:37:19,670 --> 00:37:20,700
+Pemain cadangan kita juga terluka.
+
+959
+00:37:21,030 --> 00:37:21,900
+Kita sudah tidak punya pemain cadangan.
+
+960
+00:37:22,030 --> 00:37:23,010
+Jadi, harus bagaimana?
+
+961
+00:37:23,670 --> 00:37:24,260
+Tidak bisa bermain lagi.
+
+962
+00:37:26,320 --> 00:37:27,450
+Shiyun, kau punya tisu?
+
+963
+00:37:28,470 --> 00:37:28,860
+Ada.
+
+964
+00:37:29,120 --> 00:37:30,000
+Di dalam tas, ambil sendiri.
+
+965
+00:37:35,510 --> 00:37:35,900
+Coba kulihat.
+
+966
+00:37:36,030 --> 00:37:36,700
+Yi Tianyu,
+
+967
+00:37:37,110 --> 00:37:37,820
+kau yang maju.
+
+968
+00:37:38,190 --> 00:37:39,090
+Kau biasanya selalu bolos kelas
+
+969
+00:37:39,190 --> 00:37:39,780
+untuk mempelajari strategi.
+
+970
+00:37:39,880 --> 00:37:41,050
+Sekarang adalah waktumu untuk tampil.
+
+971
+00:37:41,590 --> 00:37:42,860
+Aku tidak mau, aku tidak bisa.
+
+972
+00:37:43,190 --> 00:37:43,650
+Pelatih.
+
+973
+00:37:43,920 --> 00:37:44,940
+Pelatih, di sini ada pemain cadangan.
+
+974
+00:37:45,470 --> 00:37:46,700
+Kenapa lagi-lagi Gu Xuejiao?
+
+975
+00:37:46,960 --> 00:37:48,010
+Dia paling suka menonjolkan diri.
+
+976
+00:37:48,760 --> 00:37:50,050
+Akan kuberikan dia sedikit pelajaran.
+
+977
+00:37:50,280 --> 00:37:51,570
+Khusus untuk mengalahkan
+SMA Nomor Delapan!
+
+978
+00:37:51,990 --> 00:37:52,700
+SMA Nomor Tujuh!
+
+979
+00:37:52,840 --> 00:37:53,380
+Yi Tianyu.
+
+980
+00:37:54,360 --> 00:37:55,090
+Apakah kau merasa enak hati
+
+981
+00:37:55,110 --> 00:37:56,010
+hanya menjadi penonton di sini?
+
+982
+00:37:56,400 --> 00:37:56,860
+Cepat maju.
+
+983
+00:37:57,470 --> 00:37:58,530
+Pelatih, aku sungguh
+tidak bisa bertanding.
+
+984
+00:37:58,760 --> 00:38:00,300
+Aku terlalu lama tidak latihan,
+tanganku sudah kaku.
+
+985
+00:38:00,550 --> 00:38:01,340
+Kau ini seorang pria,
+
+986
+00:38:01,400 --> 00:38:02,490
+kenapa berbelit-belit?
+
+987
+00:38:02,670 --> 00:38:03,940
+Jika kau tidak menangkap
+kesempatan saat ini,
+
+988
+00:38:04,400 --> 00:38:05,220
+kelak kau hanya bisa menjadi
+
+989
+00:38:05,280 --> 00:38:06,380
+pria yang bermain gim
+sambil menggaruk kaki.
+
+990
+00:38:10,110 --> 00:38:10,570
+Aku?
+
+991
+00:38:10,990 --> 00:38:11,650
+Pria yang menggaruk kaki?
+
+992
+00:38:11,840 --> 00:38:12,610
+Kau sedang bercanda, ya?
+
+993
+00:38:13,150 --> 00:38:13,610
+Cepat main!
+
+994
+00:38:14,110 --> 00:38:14,300
+Cepat.
+
+995
+00:38:14,320 --> 00:38:14,610
+Ganti baju.
+
+996
+00:38:14,840 --> 00:38:15,740
+- Ayo main.
+- Mainlah.
+
+997
+00:38:16,280 --> 00:38:16,940
+Cepat, Tianyu.
+
+998
+00:38:22,920 --> 00:38:23,530
+Jumlah kesempatan
+
+999
+00:38:23,630 --> 00:38:24,450
+di kehidupan setiap orang
+
+1000
+00:38:24,550 --> 00:38:25,300
+selalu terbatas.
+
+1001
+00:38:26,470 --> 00:38:27,260
+Pergilah.
+
+1002
+00:38:36,150 --> 00:38:37,090
+Dia bahkan sudah memakai seragam basket.
+
+1003
+00:38:48,840 --> 00:38:49,220
+Ayo.
+
+1004
+00:38:49,920 --> 00:38:50,530
+Ayo.
+
+1005
+00:38:50,960 --> 00:38:51,860
+Ingat strategi yang kukatakan.
+
+1006
+00:38:52,190 --> 00:38:52,420
+Baik.
+
+1007
+00:38:52,510 --> 00:38:52,860
+Semangat.
+
+1008
+00:38:52,990 --> 00:38:53,490
+Apakah yakin bisa menang?
+
+1009
+00:38:53,720 --> 00:38:54,420
+Bisa!
+
+1010
+00:38:54,550 --> 00:38:55,380
+Tiga, dua, satu!
+
+1011
+00:38:55,590 --> 00:38:56,450
+Semangat!
+
+1012
+00:39:00,360 --> 00:39:00,940
+Semangat!
+
+1013
+00:39:01,110 --> 00:39:03,010
+Semangat!
+
+1014
+00:39:03,030 --> 00:39:04,530
+SMA Nomor Delapan!
+
+1015
+00:39:05,320 --> 00:39:05,940
+SMA Nomor Tujuh!
+
+1016
+00:39:06,190 --> 00:39:07,490
+khusus untuk mengalahkan
+SMA Nomor Delapan!
+
+1017
+00:39:20,920 --> 00:39:21,970
+Semangat!
+
+1018
+00:39:22,110 --> 00:39:25,010
+Tanpa aku,
+kau justru bersinar cemerlang.
+
+1019
+00:39:25,630 --> 00:39:27,090
+Benar saja,
+saat berkumpul adalah kotoran,
+
+1020
+00:39:27,590 --> 00:39:28,610
+saat berpisah menjadi bintang.
+
+1021
+00:39:29,030 --> 00:39:30,220
+Kau mau membuang kotoran?
+
+1022
+00:39:30,590 --> 00:39:31,300
+Aku punya tisu.
+
+1023
+00:39:32,840 --> 00:39:33,530
+Terima kasih.
+
+1024
+00:39:33,720 --> 00:39:34,530
+Sama-sama.
+
+1025
+00:39:35,160 --> 00:39:37,840
+[Toilet]
+
+1026
+00:39:38,030 --> 00:39:39,570
+Antrean toilet panjang sekali.
+
+1027
+00:39:39,720 --> 00:39:40,650
+Apakah babak kedua sudah dimulai?
+
+1028
+00:39:42,670 --> 00:39:43,220
+Pak?
+
+1029
+00:39:44,190 --> 00:39:44,610
+Ayo.
+
+1030
+00:39:49,070 --> 00:39:50,130
+Shiyun, kau punya tisu?
+
+1031
+00:39:51,510 --> 00:39:51,970
+Ada.
+
+1032
+00:39:52,280 --> 00:39:52,610
+Di dalam tas.
+
+1033
+00:39:56,190 --> 00:39:56,700
+Ini kenapa...
+
+1034
+00:39:58,840 --> 00:39:59,340
+Itu...
+
+1035
+00:39:59,760 --> 00:40:01,050
+Aku memungutnya di tepi jalan.
+
+1036
+00:40:01,510 --> 00:40:03,050
+Aku tidak tahu ini punya siapa
+
+1037
+00:40:03,150 --> 00:40:03,970
+dan tidak baik
+jika ditinggalkan di sana.
+
+1038
+00:40:04,110 --> 00:40:05,380
+Jadi, aku menyimpannya dulu.
+
+1039
+00:40:06,030 --> 00:40:07,220
+Aku akan mencari
+tempat yang bagus untuknya.
+
+1040
+00:40:08,590 --> 00:40:09,650
+Semangat!
+
+1041
+00:40:12,030 --> 00:40:12,900
+Sungguh memuaskan.
+
+1042
+00:40:14,840 --> 00:40:15,300
+Bukankah
+
+1043
+00:40:15,590 --> 00:40:16,380
+berbuat seperti ini tidak baik?
+
+1044
+00:40:16,590 --> 00:40:17,170
+Shiyun,
+
+1045
+00:40:17,320 --> 00:40:18,700
+kau terlalu baik hati,
+
+1046
+00:40:18,760 --> 00:40:19,090
+makanya
+
+1047
+00:40:19,240 --> 00:40:20,570
+sejak kecil sudah dirundung Gu Xuejiao.
+
+1048
+00:40:20,960 --> 00:40:21,970
+Dia bahkan menonjolkan diri
+
+1049
+00:40:22,030 --> 00:40:22,650
+di depan Yi Tianyu.
+
+1050
+00:40:22,760 --> 00:40:23,300
+Siapa?
+
+1051
+00:40:25,590 --> 00:40:26,380
+Gu Xuejiao.
+
+1052
+00:40:26,470 --> 00:40:27,010
+Bukankah kau...
+
+1053
+00:40:35,990 --> 00:40:36,570
+Pak.
+
+1054
+00:40:37,960 --> 00:40:38,490
+Pak Fu.
+
+1055
+00:40:45,240 --> 00:40:45,860
+Maaf.
+
+1056
+00:40:46,320 --> 00:40:46,820
+Senior.
+
+1057
+00:40:47,920 --> 00:40:48,380
+Senior.
+
+1058
+00:40:48,990 --> 00:40:50,220
+Apakah kau datang menonton pertandingan?
+
+1059
+00:40:50,510 --> 00:40:52,220
+Atau kau datang untuk mencari Xuejiao?
+
+1060
+00:40:52,590 --> 00:40:53,860
+Tadi dia berjalan ke sana
+
+1061
+00:40:53,960 --> 00:40:54,740
+sambil membawa rokok.
+
+1062
+00:40:55,920 --> 00:40:56,340
+Rokok?
+
+1063
+00:40:58,840 --> 00:40:59,650
+Kau pergi ke mana?
+
+1064
+00:41:05,240 --> 00:41:05,900
+Senior Lin.
+
+1065
+00:41:06,320 --> 00:41:07,010
+Kenapa kau datang?
+
+1066
+00:41:11,240 --> 00:41:11,970
+Bukan rokok.
+
+1067
+00:41:13,440 --> 00:41:14,780
+Kau mengira aku merokok?
+
+1068
+00:41:15,800 --> 00:41:16,530
+Coba lihat tasmu.
+
+1069
+00:41:25,400 --> 00:41:26,050
+Cari lagi.
+
+1070
+00:41:36,110 --> 00:41:36,970
+Ini bukan punyaku.
+
+1071
+00:41:37,240 --> 00:41:37,530
+Ini...
+
+1072
+00:41:38,510 --> 00:41:39,380
+Coba pikirkan ini punya siapa.
+
+1073
+00:41:41,960 --> 00:41:43,900
+Cat kuku? Warna ini...
+
+1074
+00:41:44,510 --> 00:41:45,130
+Chen Xiao?
+
+1075
+00:41:45,920 --> 00:41:47,300
+Jelaskan baik-baik kepadaku.
+
+1076
+00:41:47,800 --> 00:41:48,650
+Padahal kalian adalah
+
+1077
+00:41:48,760 --> 00:41:49,820
+murid kelas unggulan.
+
+1078
+00:41:50,720 --> 00:41:51,900
+Bisa-bisanya melakukan hal seperti ini.
+
+1079
+00:41:52,880 --> 00:41:53,970
+Sungguh mempermalukan kelas 3-1!
+
+1080
+00:41:55,320 --> 00:41:55,780
+Pulanglah.
+
+1081
+00:41:56,630 --> 00:41:57,010
+Ayo.
+
+1082
+00:42:10,800 --> 00:42:11,780
+Jika ingin tertawa, tertawa saja.
+
+1083
+00:42:12,150 --> 00:42:12,490
+Ayo.
+
+1084
+00:42:16,630 --> 00:42:17,780
+Menurutmu, apakah Pak Fu
+
+1085
+00:42:18,110 --> 00:42:19,010
+akan menggunakan
+jurus pamungkas terakhir
+
+1086
+00:42:19,030 --> 00:42:20,090
+terhadap Zhou Shiyun,
+
+1087
+00:42:20,360 --> 00:42:20,970
+memanggil orang tua?
+
+1088
+00:42:21,400 --> 00:42:22,220
+Jika sungguh seperti itu,
+
+1089
+00:42:22,760 --> 00:42:23,340
+rumah Zhou Shiyun
+
+1090
+00:42:23,400 --> 00:42:24,490
+akan menjadi kacau balau.
+
+1091
+00:42:24,920 --> 00:42:26,010
+Kau telah mengingatkanku.
+
+1092
+00:42:27,670 --> 00:42:28,090
+Aku...
+
+1093
+00:42:39,110 --> 00:42:39,650
+Lin.
+
+1094
+00:42:40,190 --> 00:42:41,010
+Halo, Pak Fu.
+
+1095
+00:42:42,880 --> 00:42:43,490
+Xuejiao
+
+1096
+00:42:43,590 --> 00:42:45,650
+ingin memohon belas kasihan
+untuk Shiyun.
+
+1097
+00:42:46,510 --> 00:42:47,650
+Katanya, jangan memanggil orang tua
+
+1098
+00:42:47,990 --> 00:42:49,260
+untuk masalah sekecil ini.
+
+1099
+00:42:49,760 --> 00:42:51,530
+Kali ini, untung saja
+kau mengingatkanku.
+
+1100
+00:42:52,280 --> 00:42:53,940
+Apakah menjebak teman itu masalah kecil?
+
+1101
+00:42:54,590 --> 00:42:55,260
+Biar kuberi tahu,
+
+1102
+00:42:55,630 --> 00:42:56,970
+kali ini harus ditangani dengan tegas,
+
+1103
+00:42:57,440 --> 00:42:58,380
+harus memberi tahu orang tua.
+
+1104
+00:42:58,960 --> 00:42:59,420
+Baiklah.
+
+1105
+00:42:59,960 --> 00:43:00,900
+Kalau begitu, hanya bisa
+mendengarkan Anda.
+
+1106
+00:43:10,550 --> 00:43:11,010
+Kau...
+
+1107
+00:43:13,670 --> 00:43:15,700
+Kau memang cepat
+dalam belajar trik orang licik,
+
+1108
+00:43:15,880 --> 00:43:16,570
+berbakat.
+
+1109
+00:43:16,960 --> 00:43:17,700
+Apanya yang orang licik?
+
+1110
+00:43:18,720 --> 00:43:19,170
+Tidak mengerti.
+
+1111
+00:43:20,590 --> 00:43:21,260
+Baik.
+
+1112
+00:43:21,510 --> 00:43:22,090
+Meskipun
+
+1113
+00:43:22,280 --> 00:43:23,300
+aku difitnah,
+
+1114
+00:43:23,510 --> 00:43:25,050
+merokok tidak baik untuk kesehatan.
+
+1115
+00:43:25,280 --> 00:43:26,780
+Murid SMA juga tidak boleh merokok.
+
+1116
+00:43:28,280 --> 00:43:29,780
+Perbuatan Senior Lin
+
+1117
+00:43:29,880 --> 00:43:30,650
+semuanya dikarenakan
+
+1118
+00:43:30,760 --> 00:43:31,860
+mengkhawatirkan kami.
+
+1119
+00:43:35,030 --> 00:43:35,420
+Oh, ya.
+
+1120
+00:43:35,880 --> 00:43:37,010
+Apa tujuan Senior Lin
+
+1121
+00:43:37,110 --> 00:43:38,300
+datang ke sini hari ini?
+
+1122
+00:43:38,840 --> 00:43:40,090
+Aku juga datang untuk menangkap orang.
+
+1123
+00:43:40,960 --> 00:43:42,740
+Menangkap orang?
+
+1124
+00:44:16,960 --> 00:44:18,800
+♪Di kamar yang gelap♪
+
+1125
+00:44:18,880 --> 00:44:22,480
+♪Harus sangat berhati-hati
+saat menyalakan lampu♪
+
+1126
+00:44:22,960 --> 00:44:27,880
+♪Agar tidak ada suara yang hampa♪
+
+1127
+00:44:29,600 --> 00:44:31,840
+♪Membuka kenangan♪
+
+1128
+00:44:32,600 --> 00:44:36,120
+♪Setiap baris jejak kaki
+yang saling menyimpang♪
+
+1129
+00:44:36,840 --> 00:44:42,080
+♪Karena kita sedang
+saling mendekati satu sama lain♪
+
+1130
+00:44:43,200 --> 00:44:46,440
+♪Biarkan takdir yang menentukan♪
+
+1131
+00:44:46,480 --> 00:44:49,960
+♪Biarkan kita menyerahkan
+seluruh keberanian♪
+
+1132
+00:44:50,640 --> 00:44:56,200
+♪Semoga kau melangkah
+ke perjalanan waktu ini♪
+
+1133
+00:44:56,760 --> 00:44:59,160
+♪Jika kau juga♪
+
+1134
+00:45:00,680 --> 00:45:04,000
+♪Memahami rahasia di dalam sorot mataku♪
+
+1135
+00:45:04,600 --> 00:45:10,360
+♪Kau akan sadar
+bahwa kau selalu ada di hatiku♪
+
+1136
+00:45:14,120 --> 00:45:20,200
+♪Aku mencoba membuka kedua tangan♪
+
+1137
+00:45:20,920 --> 00:45:24,560
+♪Karena mencintai dengan sangat yakin♪
+
+1138
+00:45:24,720 --> 00:45:27,600
+♪Aku menunggumu di puncak♪
+
+1139
+00:45:27,680 --> 00:45:34,320
+♪Tidak masalah
+seberapa kencang anginnya♪
+
+1140
+00:45:34,520 --> 00:45:38,160
+♪Ada satu sosok yang sangat dekat♪
+
+1141
+00:45:38,280 --> 00:45:44,760
+♪Aku tahu itu adalah dirimu♪
+
+1142
+00:45:51,680 --> 00:45:58,360
+♪Aku mencoba membuka kedua tangan♪
+
+1143
+00:45:58,800 --> 00:46:02,440
+♪Karena mencintai dengan sangat yakin♪
+
+1144
+00:46:02,600 --> 00:46:05,480
+♪Aku menunggumu di puncak♪
+
+1145
+00:46:05,600 --> 00:46:12,200
+♪Tidak masalah
+seberapa kencang anginnya♪
+
+1146
+00:46:12,400 --> 00:46:16,040
+♪Ada satu sosok yang sangat dekat♪
+
+1147
+00:46:16,160 --> 00:46:22,640
+♪Aku tahu itu adalah dirimu♪
+
